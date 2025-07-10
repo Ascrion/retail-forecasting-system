@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import './account_screen.dart';
 import './day_screen.dart';
 import './week_screen.dart';
+import './financials_screen.dart';
 
 class MainScaffold extends ConsumerStatefulWidget {
   const MainScaffold({super.key});
@@ -114,11 +115,4 @@ class _MainScaffoldState extends ConsumerState<MainScaffold> {
       ),
     );
   }
-}
-
-
-class FinancialsPage extends StatelessWidget {
-  const FinancialsPage({super.key});
-  @override
-  Widget build(BuildContext context) => const Center(child: Text("📊 Financials Page"));
 }

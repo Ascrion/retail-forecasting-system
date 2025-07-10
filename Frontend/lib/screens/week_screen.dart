@@ -35,7 +35,7 @@ class _WeekPageState extends ConsumerState<WeekPage> {
     final screenWidth = MediaQuery.of(context).size.width;
     final screenHeight = MediaQuery.of(context).size.height;
     final cardWidth = screenWidth * 0.2;
-    final cardHeight = screenHeight * 0.15;
+    final cardHeight = screenHeight * 0.16;
     final predictionsFuture = DBHandler.getAllPredictions();
 
     return FutureBuilder(
@@ -140,7 +140,7 @@ class _WeekPageState extends ConsumerState<WeekPage> {
                               };
 
                           return Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 4),
+                            padding: const EdgeInsets.symmetric(vertical: 6),
                             child: Container(
                               width: cardWidth,
                               decoration: BoxDecoration(
