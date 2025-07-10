@@ -1,0 +1,2574 @@
+product_id,quantity,area,hour,day_of_week
+293073,2,West Sacramento,11,Wednesday
+926868,4,West Sacramento,5,Tuesday
+417009,2,Oak Park,20,Monday
+424718,2,South Natomas,2,Sunday
+417009,1,West Sacramento,1,Friday
+799380,1,SW Sacramento,6,Monday
+644730,1,Upper Land,7,Tuesday
+417528,2,North Sacramento,15,Thursday
+799380,3,Oak Park,6,Friday
+575961,1,South Natomas,5,Friday
+740474,1,South Land,23,Wednesday
+129553,3,North Sacramento,17,Monday
+240196,2,Oak Park,18,Sunday
+966126,1,North Sacramento,6,Sunday
+876627,1,North Sacramento,18,Wednesday
+457848,3,North Sacramento,9,Friday
+357966,1,Upper Land,6,Wednesday
+846554,5,North Sacramento,2,Tuesday
+542696,2,South Land,2,Thursday
+203454,3,Upper Land,5,Sunday
+656573,3,SW Sacramento,2,Wednesday
+855119,5,Upper Land,3,Wednesday
+966126,2,South Natomas,1,Wednesday
+741835,1,South Natomas,5,Tuesday
+391708,1,North Sacramento,21,Monday
+120672,1,Upper Land,13,Sunday
+221626,3,South Land,21,Friday
+782729,1,South Natomas,4,Tuesday
+221626,1,Upper Land,14,Saturday
+203454,5,Midtown,23,Saturday
+876627,2,Cal Expo,9,Wednesday
+357966,1,South Natomas,18,Sunday
+799380,2,North Sacramento,13,Wednesday
+846554,2,Midtown,16,Friday
+799380,1,Midtown,5,Tuesday
+357966,1,Upper Land,15,Wednesday
+846554,2,SW Sacramento,10,Saturday
+120672,1,South Land,13,Thursday
+357966,1,North Sacramento,3,Monday
+120672,1,Oak Park,0,Wednesday
+417009,1,Midtown,1,Sunday
+120672,1,Cal Expo,4,Monday
+221626,3,Upper Land,23,Friday
+457848,3,North Sacramento,1,Sunday
+240196,2,Cal Expo,13,Saturday
+120672,3,North Sacramento,11,Monday
+391708,2,Cal Expo,9,Thursday
+855119,5,South Land,5,Sunday
+293073,1,SW Sacramento,22,Tuesday
+855119,1,South Natomas,8,Tuesday
+203454,1,South Land,20,Wednesday
+457848,3,Upper Land,6,Sunday
+424718,3,Upper Land,20,Wednesday
+782729,2,Midtown,15,Thursday
+129553,1,South Natomas,12,Saturday
+644730,2,West Sacramento,14,Tuesday
+203454,1,Oak Park,23,Monday
+417528,2,Upper Land,7,Saturday
+656573,1,SW Sacramento,21,Wednesday
+391708,5,Upper Land,12,Wednesday
+221626,3,Upper Land,16,Thursday
+120672,1,South Land,10,Saturday
+741835,2,Oak Park,3,Saturday
+417009,2,Upper Land,20,Saturday
+644730,3,West Sacramento,3,Monday
+846554,2,Cal Expo,20,Tuesday
+240196,2,Midtown,6,Tuesday
+357966,2,Midtown,7,Thursday
+542696,1,SW Sacramento,7,Thursday
+656573,5,South Land,18,Monday
+741835,2,Oak Park,7,Sunday
+391708,1,Oak Park,21,Saturday
+293073,2,Oak Park,10,Monday
+240196,2,West Sacramento,1,Thursday
+782729,1,Cal Expo,11,Monday
+417009,3,South Natomas,12,Wednesday
+741835,1,Cal Expo,17,Saturday
+926868,5,Oak Park,13,Tuesday
+799380,1,South Land,2,Monday
+799380,1,Midtown,1,Wednesday
+240196,1,Cal Expo,6,Monday
+203454,1,North Sacramento,7,Wednesday
+542696,4,South Land,23,Saturday
+926868,1,North Sacramento,22,Thursday
+391708,2,SW Sacramento,5,Sunday
+417009,2,SW Sacramento,19,Sunday
+644730,4,Oak Park,5,Friday
+926868,1,Upper Land,5,Thursday
+644730,1,Cal Expo,1,Thursday
+293073,4,Cal Expo,9,Thursday
+542696,2,Upper Land,18,Tuesday
+575961,4,SW Sacramento,12,Thursday
+417009,2,North Sacramento,4,Sunday
+741835,2,West Sacramento,11,Monday
+357966,2,South Natomas,12,Wednesday
+417009,2,South Land,1,Friday
+741835,2,Cal Expo,7,Tuesday
+424718,2,Oak Park,10,Wednesday
+799380,2,Cal Expo,21,Thursday
+240196,2,Cal Expo,10,Tuesday
+542696,1,Midtown,15,Monday
+575961,2,SW Sacramento,11,Saturday
+926868,4,South Natomas,17,Wednesday
+740474,2,Upper Land,5,Wednesday
+876627,4,SW Sacramento,1,Sunday
+846554,2,South Natomas,10,Monday
+846554,1,West Sacramento,11,Monday
+542696,1,North Sacramento,1,Sunday
+203454,2,Upper Land,19,Thursday
+417528,1,South Land,13,Wednesday
+876627,1,West Sacramento,7,Saturday
+644730,4,South Land,13,Friday
+357966,2,Cal Expo,13,Wednesday
+782729,4,West Sacramento,1,Friday
+221626,1,Cal Expo,20,Sunday
+129553,3,North Sacramento,9,Thursday
+741835,1,West Sacramento,17,Thursday
+120672,2,West Sacramento,23,Tuesday
+644730,2,Cal Expo,23,Friday
+926868,1,Cal Expo,13,Saturday
+966126,1,Cal Expo,16,Sunday
+846554,1,West Sacramento,14,Sunday
+846554,4,South Land,13,Wednesday
+293073,3,South Land,0,Thursday
+740474,1,Oak Park,7,Sunday
+129553,2,South Natomas,23,Thursday
+740474,1,South Natomas,16,Sunday
+782729,5,SW Sacramento,15,Monday
+417528,2,North Sacramento,15,Wednesday
+240196,2,North Sacramento,16,Saturday
+656573,1,South Natomas,6,Saturday
+424718,1,Upper Land,17,Friday
+417009,2,South Land,17,Thursday
+740474,1,South Natomas,4,Friday
+391708,4,Upper Land,19,Sunday
+120672,2,Cal Expo,17,Friday
+120672,2,Cal Expo,13,Saturday
+644730,4,South Land,15,Wednesday
+741835,4,West Sacramento,8,Sunday
+542696,1,North Sacramento,19,Monday
+782729,1,North Sacramento,4,Monday
+740474,2,Oak Park,17,Thursday
+966126,4,South Natomas,14,Tuesday
+966126,3,West Sacramento,15,Tuesday
+966126,1,South Natomas,22,Friday
+740474,1,Upper Land,1,Tuesday
+966126,3,South Land,22,Sunday
+293073,1,Cal Expo,23,Monday
+782729,1,South Natomas,16,Saturday
+457848,2,Oak Park,0,Saturday
+644730,2,Oak Park,12,Saturday
+966126,2,Upper Land,13,Sunday
+966126,1,Cal Expo,20,Monday
+240196,2,SW Sacramento,9,Friday
+855119,4,West Sacramento,7,Sunday
+120672,1,North Sacramento,12,Tuesday
+926868,4,Upper Land,2,Tuesday
+855119,4,Midtown,6,Wednesday
+203454,2,Oak Park,18,Wednesday
+240196,1,West Sacramento,13,Monday
+846554,1,Upper Land,19,Tuesday
+357966,1,North Sacramento,16,Sunday
+391708,3,SW Sacramento,14,Saturday
+293073,2,South Land,20,Saturday
+240196,2,South Natomas,10,Wednesday
+966126,3,Oak Park,0,Tuesday
+656573,5,South Natomas,10,Saturday
+782729,2,Upper Land,12,Thursday
+424718,3,Cal Expo,10,Wednesday
+417009,4,Upper Land,17,Wednesday
+741835,1,Midtown,15,Wednesday
+876627,1,Upper Land,1,Friday
+575961,3,West Sacramento,14,Friday
+799380,1,Midtown,10,Sunday
+240196,4,SW Sacramento,20,Saturday
+740474,1,South Natomas,12,Wednesday
+644730,2,West Sacramento,4,Monday
+656573,2,Cal Expo,4,Sunday
+966126,2,Midtown,4,Thursday
+293073,1,North Sacramento,20,Tuesday
+417528,1,North Sacramento,12,Wednesday
+799380,2,South Land,15,Sunday
+120672,2,SW Sacramento,19,Saturday
+782729,1,South Land,20,Friday
+741835,1,Upper Land,17,Saturday
+740474,2,Cal Expo,21,Thursday
+240196,3,South Natomas,17,Wednesday
+457848,2,Cal Expo,5,Tuesday
+424718,3,Upper Land,21,Thursday
+542696,2,Oak Park,15,Tuesday
+855119,1,West Sacramento,21,Tuesday
+966126,1,Cal Expo,0,Sunday
+644730,3,Upper Land,11,Wednesday
+926868,1,West Sacramento,1,Monday
+357966,2,Oak Park,1,Sunday
+846554,2,West Sacramento,7,Monday
+129553,2,West Sacramento,1,Tuesday
+740474,3,Midtown,0,Thursday
+357966,1,SW Sacramento,22,Saturday
+782729,1,South Land,3,Thursday
+855119,3,North Sacramento,23,Tuesday
+799380,1,Upper Land,5,Sunday
+966126,2,Midtown,17,Friday
+644730,1,Midtown,0,Tuesday
+656573,4,South Natomas,15,Thursday
+876627,3,South Land,19,Friday
+293073,1,North Sacramento,14,Thursday
+203454,2,North Sacramento,16,Wednesday
+129553,1,South Natomas,9,Saturday
+424718,1,Oak Park,6,Wednesday
+293073,4,North Sacramento,7,Monday
+741835,1,West Sacramento,4,Wednesday
+656573,4,North Sacramento,20,Thursday
+457848,4,Upper Land,12,Sunday
+293073,1,West Sacramento,23,Tuesday
+644730,5,Upper Land,23,Friday
+741835,2,Upper Land,4,Wednesday
+855119,1,North Sacramento,21,Tuesday
+542696,2,Oak Park,5,Sunday
+120672,1,Upper Land,18,Friday
+740474,2,West Sacramento,17,Thursday
+424718,4,West Sacramento,20,Saturday
+391708,2,Cal Expo,21,Wednesday
+966126,1,South Natomas,16,Tuesday
+741835,4,South Land,1,Thursday
+417009,2,West Sacramento,18,Friday
+120672,4,SW Sacramento,1,Tuesday
+799380,2,SW Sacramento,1,Tuesday
+457848,4,South Land,18,Tuesday
+782729,1,South Land,0,Thursday
+417528,2,West Sacramento,0,Saturday
+542696,4,SW Sacramento,1,Friday
+240196,1,Upper Land,18,Wednesday
+575961,2,South Land,0,Wednesday
+740474,1,West Sacramento,14,Friday
+740474,1,North Sacramento,1,Monday
+740474,3,Midtown,8,Monday
+240196,2,Upper Land,18,Thursday
+417528,1,North Sacramento,12,Thursday
+575961,1,Midtown,16,Saturday
+644730,4,SW Sacramento,12,Monday
+417009,5,South Natomas,1,Wednesday
+417009,2,Midtown,9,Monday
+846554,3,Upper Land,6,Saturday
+293073,2,South Land,7,Monday
+391708,1,Midtown,15,Monday
+457848,3,SW Sacramento,11,Thursday
+966126,1,SW Sacramento,2,Wednesday
+846554,2,Midtown,17,Friday
+542696,1,Cal Expo,20,Thursday
+120672,2,South Natomas,18,Tuesday
+221626,1,SW Sacramento,23,Wednesday
+656573,3,SW Sacramento,22,Monday
+926868,2,West Sacramento,14,Thursday
+575961,2,North Sacramento,19,Wednesday
+656573,3,South Natomas,4,Tuesday
+656573,1,South Land,9,Tuesday
+966126,3,West Sacramento,1,Wednesday
+876627,2,Midtown,9,Friday
+457848,1,Upper Land,5,Thursday
+457848,1,Midtown,0,Wednesday
+417528,2,South Natomas,23,Monday
+357966,1,Midtown,6,Tuesday
+203454,2,South Land,0,Wednesday
+457848,2,Upper Land,2,Tuesday
+799380,2,North Sacramento,6,Thursday
+457848,3,North Sacramento,1,Friday
+357966,4,Oak Park,12,Sunday
+293073,2,South Land,8,Saturday
+846554,3,North Sacramento,4,Tuesday
+129553,2,South Land,13,Sunday
+855119,2,South Natomas,10,Sunday
+221626,4,Upper Land,21,Tuesday
+391708,2,Cal Expo,21,Friday
+357966,1,Oak Park,2,Saturday
+417009,1,North Sacramento,9,Friday
+357966,3,Oak Park,20,Wednesday
+876627,1,Cal Expo,6,Thursday
+457848,1,Upper Land,4,Wednesday
+846554,4,Oak Park,1,Saturday
+741835,1,Cal Expo,6,Monday
+782729,1,Upper Land,19,Saturday
+740474,2,West Sacramento,9,Tuesday
+740474,1,Midtown,12,Sunday
+120672,4,South Land,8,Sunday
+391708,2,Midtown,7,Monday
+203454,4,South Natomas,5,Wednesday
+741835,2,Midtown,16,Thursday
+575961,5,Oak Park,2,Monday
+417009,5,North Sacramento,11,Tuesday
+120672,2,Midtown,19,Wednesday
+644730,3,South Land,5,Saturday
+966126,1,Upper Land,0,Monday
+575961,1,Upper Land,23,Wednesday
+391708,2,SW Sacramento,9,Monday
+542696,1,South Natomas,20,Saturday
+876627,1,South Land,16,Saturday
+424718,1,North Sacramento,17,Saturday
+391708,2,Oak Park,16,Friday
+221626,1,South Natomas,15,Thursday
+799380,2,Oak Park,20,Thursday
+799380,1,Upper Land,6,Saturday
+846554,2,SW Sacramento,16,Saturday
+846554,2,SW Sacramento,2,Wednesday
+120672,1,Cal Expo,11,Saturday
+846554,2,Upper Land,8,Saturday
+417009,4,Upper Land,11,Tuesday
+876627,3,South Natomas,1,Saturday
+457848,4,North Sacramento,12,Sunday
+542696,4,South Land,13,Thursday
+966126,1,Oak Park,15,Tuesday
+782729,2,South Land,17,Sunday
+203454,3,Midtown,23,Wednesday
+457848,3,North Sacramento,6,Wednesday
+391708,1,Midtown,0,Tuesday
+966126,2,Upper Land,17,Tuesday
+656573,2,Upper Land,21,Monday
+782729,1,Midtown,0,Thursday
+203454,1,Oak Park,4,Thursday
+926868,1,Midtown,15,Monday
+644730,1,North Sacramento,5,Wednesday
+129553,1,Oak Park,16,Friday
+846554,3,West Sacramento,0,Monday
+782729,1,Midtown,7,Monday
+424718,2,Oak Park,9,Tuesday
+203454,1,Oak Park,7,Sunday
+120672,1,South Natomas,0,Wednesday
+457848,1,West Sacramento,2,Monday
+926868,1,Upper Land,23,Tuesday
+391708,2,SW Sacramento,14,Saturday
+542696,1,South Natomas,5,Monday
+293073,4,North Sacramento,20,Wednesday
+120672,2,Oak Park,13,Sunday
+966126,1,South Natomas,13,Thursday
+656573,4,Midtown,23,Saturday
+457848,2,North Sacramento,11,Thursday
+966126,3,Midtown,1,Friday
+799380,2,Upper Land,4,Thursday
+644730,4,North Sacramento,13,Wednesday
+417528,1,West Sacramento,23,Friday
+644730,1,SW Sacramento,12,Friday
+799380,2,Cal Expo,8,Thursday
+782729,4,South Land,19,Thursday
+240196,1,Midtown,15,Thursday
+741835,2,North Sacramento,18,Tuesday
+740474,1,South Natomas,20,Tuesday
+926868,1,Oak Park,12,Saturday
+926868,4,Cal Expo,11,Friday
+740474,3,Midtown,22,Tuesday
+876627,4,South Land,12,Tuesday
+417009,2,Cal Expo,3,Thursday
+966126,2,West Sacramento,5,Monday
+120672,5,Midtown,16,Monday
+391708,1,South Natomas,21,Friday
+417009,1,South Land,9,Friday
+120672,3,Midtown,2,Tuesday
+799380,2,Upper Land,14,Sunday
+424718,1,SW Sacramento,23,Wednesday
+221626,2,Midtown,19,Tuesday
+417528,1,Cal Expo,22,Tuesday
+424718,1,South Natomas,13,Tuesday
+741835,2,North Sacramento,11,Sunday
+417009,2,North Sacramento,2,Tuesday
+424718,1,North Sacramento,8,Sunday
+799380,1,North Sacramento,6,Wednesday
+966126,2,Cal Expo,9,Saturday
+799380,4,SW Sacramento,23,Monday
+876627,4,West Sacramento,10,Wednesday
+120672,1,Oak Park,13,Thursday
+357966,4,Midtown,20,Saturday
+391708,2,Upper Land,19,Wednesday
+357966,3,SW Sacramento,23,Thursday
+417528,2,Upper Land,17,Monday
+129553,3,SW Sacramento,9,Thursday
+782729,1,North Sacramento,8,Monday
+575961,3,Midtown,3,Wednesday
+240196,2,North Sacramento,4,Sunday
+542696,3,West Sacramento,2,Friday
+221626,1,SW Sacramento,16,Monday
+417528,4,West Sacramento,23,Monday
+926868,2,Oak Park,15,Saturday
+293073,1,Cal Expo,20,Friday
+741835,1,Cal Expo,13,Wednesday
+782729,1,Oak Park,13,Monday
+741835,3,SW Sacramento,19,Tuesday
+240196,1,Midtown,11,Thursday
+644730,2,North Sacramento,0,Monday
+855119,2,SW Sacramento,5,Sunday
+129553,2,South Land,8,Friday
+876627,3,Oak Park,5,Monday
+293073,3,Cal Expo,18,Tuesday
+799380,3,West Sacramento,21,Thursday
+129553,1,West Sacramento,11,Wednesday
+391708,1,South Land,12,Thursday
+782729,2,South Natomas,17,Wednesday
+542696,1,West Sacramento,16,Thursday
+876627,2,SW Sacramento,20,Thursday
+740474,5,North Sacramento,12,Thursday
+129553,2,Midtown,16,Monday
+926868,1,Oak Park,7,Tuesday
+424718,4,Oak Park,14,Monday
+221626,2,North Sacramento,11,Monday
+391708,1,West Sacramento,16,Wednesday
+417528,4,South Land,12,Tuesday
+417528,3,Cal Expo,12,Friday
+575961,2,Midtown,16,Friday
+926868,1,Upper Land,21,Saturday
+799380,2,Upper Land,7,Friday
+799380,1,SW Sacramento,10,Saturday
+542696,1,North Sacramento,2,Sunday
+846554,4,South Land,17,Thursday
+799380,4,Cal Expo,2,Wednesday
+799380,1,Oak Park,18,Thursday
+876627,2,Oak Park,16,Tuesday
+221626,2,SW Sacramento,5,Sunday
+120672,2,South Natomas,13,Wednesday
+424718,2,Cal Expo,22,Tuesday
+855119,2,West Sacramento,3,Saturday
+293073,1,Oak Park,7,Saturday
+203454,3,South Natomas,12,Saturday
+644730,1,Midtown,18,Tuesday
+741835,1,West Sacramento,21,Wednesday
+221626,2,Upper Land,5,Friday
+782729,2,North Sacramento,19,Monday
+876627,4,Cal Expo,8,Thursday
+799380,2,South Land,5,Thursday
+846554,1,Oak Park,5,Saturday
+656573,3,SW Sacramento,10,Saturday
+782729,2,SW Sacramento,23,Saturday
+293073,3,Upper Land,5,Tuesday
+424718,3,North Sacramento,12,Tuesday
+966126,1,Upper Land,4,Sunday
+855119,5,Midtown,17,Saturday
+129553,4,West Sacramento,10,Wednesday
+424718,4,South Land,17,Sunday
+203454,1,SW Sacramento,2,Monday
+926868,1,South Land,21,Sunday
+644730,2,North Sacramento,11,Thursday
+740474,3,South Land,5,Saturday
+926868,1,South Natomas,19,Monday
+203454,3,Upper Land,3,Sunday
+417528,2,North Sacramento,23,Wednesday
+876627,2,Upper Land,17,Tuesday
+293073,4,South Land,20,Sunday
+357966,2,SW Sacramento,15,Saturday
+417009,1,North Sacramento,8,Sunday
+575961,1,South Land,1,Wednesday
+240196,3,Cal Expo,3,Thursday
+357966,2,Upper Land,21,Saturday
+203454,1,SW Sacramento,7,Thursday
+120672,2,West Sacramento,1,Thursday
+799380,1,SW Sacramento,10,Monday
+966126,1,Oak Park,6,Friday
+293073,2,South Natomas,3,Wednesday
+221626,1,South Natomas,4,Friday
+417528,1,Oak Park,8,Saturday
+240196,4,Upper Land,17,Monday
+966126,1,South Land,7,Saturday
+424718,1,North Sacramento,20,Tuesday
+656573,1,North Sacramento,14,Thursday
+457848,3,Midtown,9,Wednesday
+644730,2,North Sacramento,0,Sunday
+357966,1,Midtown,22,Saturday
+966126,2,Upper Land,10,Tuesday
+424718,2,South Land,8,Monday
+926868,1,Oak Park,3,Saturday
+240196,2,North Sacramento,22,Wednesday
+966126,2,Midtown,0,Tuesday
+656573,4,North Sacramento,4,Sunday
+799380,2,Oak Park,21,Saturday
+740474,3,West Sacramento,14,Friday
+203454,1,South Natomas,3,Friday
+644730,3,SW Sacramento,3,Saturday
+417528,3,North Sacramento,9,Thursday
+417528,2,West Sacramento,23,Tuesday
+876627,5,South Land,3,Thursday
+240196,4,South Land,11,Tuesday
+741835,1,South Natomas,16,Saturday
+876627,4,North Sacramento,15,Friday
+457848,2,Oak Park,15,Saturday
+542696,2,Upper Land,5,Thursday
+656573,3,Upper Land,20,Wednesday
+782729,2,Cal Expo,15,Sunday
+203454,1,North Sacramento,6,Sunday
+575961,3,Upper Land,22,Monday
+293073,2,South Natomas,13,Wednesday
+741835,3,Upper Land,5,Sunday
+417528,2,Upper Land,3,Tuesday
+240196,1,West Sacramento,21,Thursday
+357966,3,Upper Land,12,Sunday
+876627,2,SW Sacramento,2,Wednesday
+575961,3,West Sacramento,15,Monday
+741835,3,SW Sacramento,2,Friday
+293073,2,Upper Land,14,Thursday
+782729,1,South Land,6,Saturday
+424718,2,SW Sacramento,4,Friday
+740474,4,Upper Land,13,Tuesday
+221626,1,North Sacramento,5,Friday
+855119,5,South Land,1,Sunday
+926868,3,North Sacramento,12,Sunday
+741835,1,South Land,19,Tuesday
+424718,1,West Sacramento,12,Thursday
+966126,1,South Natomas,20,Sunday
+966126,1,South Land,6,Sunday
+221626,1,Cal Expo,1,Sunday
+846554,2,West Sacramento,8,Monday
+417009,1,North Sacramento,19,Tuesday
+221626,2,Midtown,22,Tuesday
+221626,2,South Natomas,20,Wednesday
+417009,2,Cal Expo,21,Monday
+855119,1,Midtown,9,Thursday
+741835,5,Midtown,18,Thursday
+741835,1,Oak Park,19,Wednesday
+644730,2,South Natomas,14,Monday
+656573,1,Upper Land,4,Wednesday
+221626,2,Oak Park,18,Sunday
+391708,1,Midtown,10,Thursday
+221626,4,Upper Land,2,Thursday
+457848,1,North Sacramento,21,Monday
+293073,3,Cal Expo,15,Sunday
+741835,4,North Sacramento,7,Friday
+926868,4,Midtown,18,Saturday
+417009,2,SW Sacramento,5,Tuesday
+855119,1,Upper Land,1,Sunday
+876627,1,SW Sacramento,12,Saturday
+799380,1,South Land,20,Saturday
+221626,2,South Natomas,10,Sunday
+644730,1,West Sacramento,16,Wednesday
+357966,3,Midtown,19,Saturday
+644730,3,Oak Park,11,Thursday
+740474,2,West Sacramento,9,Monday
+966126,1,Cal Expo,11,Sunday
+575961,2,South Land,8,Monday
+799380,3,South Natomas,22,Saturday
+391708,4,Upper Land,8,Tuesday
+120672,1,West Sacramento,8,Tuesday
+417009,2,SW Sacramento,1,Wednesday
+417009,1,Midtown,16,Thursday
+417009,2,Cal Expo,21,Friday
+966126,1,Cal Expo,17,Wednesday
+846554,2,Cal Expo,1,Friday
+656573,1,Oak Park,18,Monday
+855119,2,Cal Expo,12,Tuesday
+575961,5,South Land,8,Thursday
+740474,1,South Natomas,3,Wednesday
+966126,3,Oak Park,11,Sunday
+424718,3,Upper Land,11,Thursday
+120672,2,Oak Park,19,Saturday
+391708,2,Upper Land,11,Tuesday
+424718,2,South Land,16,Monday
+120672,2,SW Sacramento,18,Tuesday
+240196,1,Cal Expo,16,Sunday
+457848,4,South Land,17,Monday
+221626,2,Cal Expo,9,Thursday
+926868,5,Oak Park,3,Saturday
+966126,2,South Natomas,23,Sunday
+876627,2,South Natomas,0,Sunday
+203454,4,Cal Expo,19,Thursday
+391708,4,Midtown,6,Sunday
+644730,5,SW Sacramento,22,Monday
+357966,1,Oak Park,4,Thursday
+644730,3,Oak Park,10,Sunday
+644730,5,South Natomas,7,Tuesday
+293073,1,SW Sacramento,3,Sunday
+120672,1,SW Sacramento,13,Friday
+417528,2,Cal Expo,3,Monday
+129553,1,Cal Expo,22,Thursday
+424718,1,West Sacramento,21,Friday
+129553,3,SW Sacramento,15,Tuesday
+542696,4,Oak Park,0,Tuesday
+855119,1,North Sacramento,20,Tuesday
+120672,2,Oak Park,15,Thursday
+966126,2,Upper Land,18,Thursday
+656573,2,Upper Land,21,Tuesday
+120672,2,Upper Land,19,Thursday
+926868,2,Cal Expo,3,Thursday
+740474,3,Upper Land,16,Saturday
+417009,1,Midtown,12,Tuesday
+424718,1,South Land,16,Wednesday
+203454,2,Midtown,15,Tuesday
+391708,1,Midtown,11,Sunday
+575961,1,Upper Land,19,Wednesday
+417009,5,SW Sacramento,4,Friday
+417009,1,South Land,8,Sunday
+129553,2,Upper Land,4,Friday
+221626,5,Oak Park,4,Tuesday
+644730,2,West Sacramento,8,Monday
+575961,2,SW Sacramento,7,Tuesday
+966126,2,SW Sacramento,14,Sunday
+129553,1,West Sacramento,14,Monday
+656573,2,South Natomas,17,Sunday
+457848,2,South Land,8,Tuesday
+656573,1,West Sacramento,2,Saturday
+782729,1,South Natomas,9,Friday
+391708,1,Midtown,0,Tuesday
+120672,2,SW Sacramento,21,Saturday
+417009,5,Cal Expo,1,Tuesday
+293073,3,SW Sacramento,4,Tuesday
+120672,1,West Sacramento,16,Thursday
+120672,1,SW Sacramento,12,Thursday
+782729,2,South Land,1,Sunday
+575961,2,South Natomas,4,Sunday
+740474,2,South Land,15,Thursday
+129553,5,West Sacramento,17,Friday
+417528,4,Cal Expo,8,Monday
+740474,2,Cal Expo,4,Saturday
+391708,3,Upper Land,0,Thursday
+644730,4,SW Sacramento,5,Tuesday
+740474,1,Oak Park,2,Thursday
+417009,1,SW Sacramento,8,Wednesday
+542696,2,Upper Land,13,Monday
+966126,2,West Sacramento,9,Tuesday
+457848,2,South Natomas,15,Thursday
+926868,1,Midtown,7,Tuesday
+417528,5,SW Sacramento,19,Tuesday
+741835,2,North Sacramento,11,Friday
+656573,2,SW Sacramento,21,Sunday
+424718,4,SW Sacramento,8,Sunday
+457848,4,Upper Land,2,Saturday
+542696,2,Cal Expo,3,Tuesday
+240196,4,Oak Park,3,Friday
+120672,2,South Land,2,Tuesday
+293073,3,South Land,11,Tuesday
+876627,3,Oak Park,9,Sunday
+542696,1,North Sacramento,20,Tuesday
+966126,2,West Sacramento,11,Monday
+221626,1,West Sacramento,4,Wednesday
+203454,5,North Sacramento,11,Friday
+644730,3,Upper Land,18,Wednesday
+357966,2,Upper Land,21,Thursday
+293073,1,SW Sacramento,17,Thursday
+203454,1,SW Sacramento,20,Tuesday
+876627,1,Upper Land,11,Friday
+240196,5,West Sacramento,14,Saturday
+644730,1,South Land,0,Saturday
+782729,1,SW Sacramento,12,Saturday
+391708,1,SW Sacramento,14,Saturday
+656573,1,Oak Park,8,Monday
+644730,1,South Land,4,Wednesday
+391708,1,Upper Land,7,Tuesday
+129553,2,Midtown,13,Tuesday
+417009,1,West Sacramento,19,Thursday
+575961,3,South Land,12,Tuesday
+391708,3,Midtown,12,Wednesday
+424718,2,South Natomas,4,Friday
+203454,4,Oak Park,5,Tuesday
+855119,1,Midtown,2,Saturday
+221626,2,South Natomas,14,Saturday
+782729,1,Upper Land,19,Tuesday
+846554,4,West Sacramento,5,Sunday
+740474,3,Oak Park,13,Wednesday
+741835,2,Cal Expo,10,Tuesday
+926868,4,Midtown,14,Friday
+966126,3,Oak Park,18,Thursday
+542696,4,Oak Park,1,Tuesday
+424718,1,Oak Park,15,Saturday
+876627,2,Midtown,22,Wednesday
+926868,2,Cal Expo,4,Saturday
+644730,2,North Sacramento,8,Sunday
+120672,1,South Natomas,13,Sunday
+293073,1,SW Sacramento,23,Monday
+457848,5,Cal Expo,19,Thursday
+417009,1,South Natomas,13,Friday
+855119,1,Cal Expo,4,Wednesday
+293073,2,North Sacramento,23,Saturday
+424718,1,West Sacramento,18,Wednesday
+799380,5,Cal Expo,15,Saturday
+846554,1,North Sacramento,6,Saturday
+203454,2,North Sacramento,4,Saturday
+855119,1,SW Sacramento,11,Tuesday
+221626,2,Cal Expo,19,Friday
+782729,1,Midtown,18,Friday
+293073,2,SW Sacramento,22,Friday
+855119,3,South Natomas,21,Friday
+357966,4,South Land,0,Wednesday
+740474,3,SW Sacramento,2,Saturday
+221626,4,Oak Park,7,Monday
+542696,1,Cal Expo,19,Monday
+120672,2,SW Sacramento,2,Wednesday
+203454,3,Upper Land,7,Thursday
+656573,5,Oak Park,16,Friday
+417528,3,North Sacramento,14,Thursday
+966126,2,Oak Park,3,Saturday
+129553,1,North Sacramento,3,Tuesday
+926868,5,South Natomas,15,Sunday
+221626,5,Midtown,12,Saturday
+846554,1,SW Sacramento,0,Wednesday
+876627,1,South Natomas,10,Saturday
+417009,2,Upper Land,5,Sunday
+782729,1,West Sacramento,14,Wednesday
+357966,2,South Land,16,Saturday
+966126,2,South Natomas,7,Saturday
+740474,5,South Land,19,Friday
+357966,4,Cal Expo,18,Thursday
+575961,4,South Natomas,22,Monday
+656573,2,South Land,13,Monday
+656573,2,South Land,13,Saturday
+855119,1,North Sacramento,18,Tuesday
+855119,2,North Sacramento,14,Friday
+417009,1,North Sacramento,1,Friday
+782729,3,South Natomas,7,Tuesday
+966126,1,West Sacramento,8,Friday
+417009,2,South Natomas,4,Monday
+740474,1,SW Sacramento,20,Saturday
+575961,2,SW Sacramento,22,Tuesday
+656573,5,South Land,16,Monday
+966126,2,Cal Expo,6,Saturday
+417009,5,SW Sacramento,19,Tuesday
+391708,1,North Sacramento,15,Tuesday
+782729,2,North Sacramento,18,Wednesday
+424718,2,Midtown,22,Thursday
+417528,1,Cal Expo,3,Saturday
+876627,5,Cal Expo,4,Tuesday
+357966,4,Oak Park,19,Thursday
+656573,2,South Natomas,15,Thursday
+656573,1,South Land,18,Sunday
+417009,2,Upper Land,19,Monday
+221626,1,West Sacramento,17,Monday
+221626,3,Cal Expo,17,Tuesday
+740474,5,Midtown,11,Sunday
+740474,1,Oak Park,18,Friday
+240196,2,South Land,11,Friday
+644730,1,North Sacramento,19,Monday
+240196,1,Oak Park,20,Monday
+926868,3,West Sacramento,12,Thursday
+846554,1,West Sacramento,9,Sunday
+417009,3,Cal Expo,22,Monday
+782729,1,Cal Expo,12,Sunday
+740474,3,Cal Expo,5,Friday
+417528,1,SW Sacramento,16,Wednesday
+740474,1,South Land,8,Friday
+575961,2,Cal Expo,11,Tuesday
+926868,1,North Sacramento,8,Thursday
+740474,4,Oak Park,17,Wednesday
+221626,2,Upper Land,4,Thursday
+656573,2,North Sacramento,7,Wednesday
+417009,2,West Sacramento,22,Thursday
+457848,2,Oak Park,9,Tuesday
+391708,2,SW Sacramento,16,Monday
+799380,1,Midtown,7,Thursday
+782729,4,Midtown,14,Saturday
+575961,4,Upper Land,12,Monday
+876627,2,Oak Park,10,Saturday
+876627,1,North Sacramento,4,Thursday
+240196,1,North Sacramento,12,Wednesday
+221626,3,West Sacramento,10,Friday
+221626,1,West Sacramento,4,Saturday
+741835,2,West Sacramento,23,Thursday
+457848,4,Oak Park,1,Monday
+457848,1,Cal Expo,2,Thursday
+855119,1,South Natomas,13,Saturday
+966126,2,Oak Park,0,Tuesday
+656573,2,Oak Park,11,Tuesday
+846554,1,Midtown,8,Friday
+221626,1,Upper Land,5,Tuesday
+417528,1,West Sacramento,3,Saturday
+417009,2,West Sacramento,17,Tuesday
+221626,1,Cal Expo,10,Sunday
+221626,1,Upper Land,13,Friday
+782729,2,West Sacramento,11,Monday
+542696,1,South Land,17,Wednesday
+457848,3,SW Sacramento,16,Wednesday
+203454,3,Oak Park,9,Thursday
+656573,1,Upper Land,10,Monday
+129553,2,West Sacramento,11,Thursday
+799380,4,South Natomas,18,Friday
+876627,2,Upper Land,4,Thursday
+457848,2,Oak Park,16,Tuesday
+846554,2,South Land,10,Friday
+926868,1,North Sacramento,19,Sunday
+391708,4,Midtown,15,Saturday
+656573,4,Upper Land,12,Thursday
+357966,2,West Sacramento,1,Tuesday
+542696,1,South Natomas,9,Sunday
+741835,1,South Land,19,Thursday
+417528,1,Cal Expo,7,Wednesday
+424718,5,South Land,14,Wednesday
+357966,4,SW Sacramento,20,Friday
+203454,1,West Sacramento,16,Saturday
+240196,1,Upper Land,6,Monday
+129553,3,SW Sacramento,10,Tuesday
+221626,1,Cal Expo,22,Thursday
+417009,1,Upper Land,18,Tuesday
+240196,2,North Sacramento,14,Monday
+417528,2,North Sacramento,15,Tuesday
+799380,2,South Natomas,11,Wednesday
+799380,1,Cal Expo,16,Sunday
+966126,2,North Sacramento,12,Thursday
+457848,1,West Sacramento,4,Wednesday
+966126,1,Upper Land,21,Saturday
+799380,2,Midtown,19,Tuesday
+457848,2,Upper Land,3,Saturday
+417528,2,Upper Land,4,Monday
+391708,2,West Sacramento,10,Thursday
+799380,1,Upper Land,21,Tuesday
+357966,2,West Sacramento,14,Tuesday
+417009,3,North Sacramento,19,Tuesday
+391708,2,North Sacramento,15,Thursday
+644730,3,Cal Expo,7,Wednesday
+221626,1,Midtown,17,Thursday
+424718,2,Upper Land,23,Friday
+575961,1,Midtown,0,Saturday
+542696,1,West Sacramento,17,Saturday
+799380,2,Cal Expo,12,Friday
+203454,3,West Sacramento,2,Monday
+741835,2,North Sacramento,16,Saturday
+240196,1,West Sacramento,6,Wednesday
+457848,1,Upper Land,22,Saturday
+293073,4,South Land,22,Thursday
+357966,1,South Land,3,Saturday
+799380,2,SW Sacramento,7,Thursday
+656573,1,South Land,17,Monday
+855119,1,Upper Land,7,Tuesday
+876627,3,Upper Land,20,Thursday
+799380,1,North Sacramento,3,Tuesday
+644730,4,North Sacramento,2,Sunday
+855119,3,Midtown,13,Wednesday
+240196,1,Oak Park,7,Sunday
+966126,1,Oak Park,5,Sunday
+417009,1,Cal Expo,2,Thursday
+357966,1,Cal Expo,6,Monday
+391708,1,Upper Land,16,Monday
+846554,2,West Sacramento,1,Wednesday
+457848,1,Upper Land,15,Friday
+542696,1,South Natomas,14,Tuesday
+846554,2,Upper Land,23,Tuesday
+240196,3,SW Sacramento,5,Tuesday
+424718,5,North Sacramento,14,Thursday
+966126,1,Midtown,13,Friday
+740474,1,Oak Park,2,Sunday
+424718,1,Oak Park,23,Monday
+417528,4,SW Sacramento,13,Sunday
+203454,2,South Natomas,0,Monday
+799380,4,Oak Park,12,Tuesday
+542696,1,South Natomas,15,Wednesday
+357966,4,West Sacramento,2,Monday
+120672,2,Cal Expo,3,Saturday
+357966,1,Oak Park,3,Tuesday
+926868,1,North Sacramento,18,Thursday
+741835,1,Cal Expo,4,Wednesday
+391708,1,Midtown,2,Thursday
+129553,1,Midtown,8,Monday
+782729,1,Cal Expo,1,Sunday
+391708,2,South Land,22,Sunday
+391708,4,Oak Park,0,Monday
+203454,2,Upper Land,8,Thursday
+120672,3,Upper Land,18,Monday
+740474,1,Midtown,7,Saturday
+203454,3,Cal Expo,12,Sunday
+457848,1,West Sacramento,0,Sunday
+740474,1,Midtown,14,Saturday
+855119,1,Upper Land,11,Tuesday
+391708,1,Upper Land,22,Tuesday
+782729,3,North Sacramento,14,Wednesday
+542696,2,West Sacramento,10,Tuesday
+240196,2,West Sacramento,16,Wednesday
+424718,4,SW Sacramento,14,Thursday
+417528,5,South Land,19,Friday
+926868,2,Upper Land,8,Wednesday
+644730,4,Cal Expo,3,Monday
+656573,3,Oak Park,4,Sunday
+846554,2,Oak Park,19,Tuesday
+417009,1,Cal Expo,17,Saturday
+120672,2,Midtown,23,Friday
+457848,1,North Sacramento,17,Tuesday
+203454,2,Midtown,20,Monday
+741835,2,North Sacramento,1,Saturday
+575961,4,SW Sacramento,13,Friday
+855119,2,Oak Park,18,Friday
+129553,3,Midtown,2,Saturday
+926868,1,North Sacramento,15,Monday
+846554,3,Upper Land,4,Thursday
+846554,1,South Land,5,Sunday
+417528,1,Oak Park,17,Thursday
+876627,2,Cal Expo,4,Friday
+876627,3,South Natomas,8,Monday
+417528,2,West Sacramento,6,Tuesday
+391708,2,Midtown,13,Thursday
+221626,4,Upper Land,21,Monday
+542696,2,Cal Expo,3,Thursday
+782729,1,Midtown,20,Monday
+357966,4,Midtown,5,Friday
+575961,1,North Sacramento,1,Monday
+799380,1,South Land,20,Monday
+129553,1,South Natomas,5,Sunday
+542696,1,Midtown,19,Thursday
+740474,1,West Sacramento,6,Tuesday
+424718,1,Upper Land,14,Saturday
+855119,3,South Natomas,20,Sunday
+740474,2,South Land,11,Wednesday
+542696,2,North Sacramento,22,Wednesday
+357966,2,South Natomas,14,Wednesday
+357966,2,South Land,16,Sunday
+120672,2,Upper Land,6,Saturday
+542696,1,South Land,20,Sunday
+240196,3,South Natomas,21,Monday
+391708,1,West Sacramento,5,Friday
+424718,2,South Natomas,13,Saturday
+656573,2,Midtown,4,Saturday
+966126,3,Midtown,19,Sunday
+417528,1,SW Sacramento,16,Wednesday
+740474,3,SW Sacramento,6,Monday
+855119,4,SW Sacramento,0,Friday
+799380,1,West Sacramento,10,Friday
+221626,2,Oak Park,18,Friday
+740474,2,Oak Park,3,Friday
+240196,1,Midtown,12,Friday
+357966,1,North Sacramento,4,Monday
+457848,3,Cal Expo,10,Tuesday
+357966,2,North Sacramento,1,Sunday
+293073,1,Oak Park,22,Sunday
+740474,1,Cal Expo,0,Thursday
+391708,1,Upper Land,19,Tuesday
+293073,5,SW Sacramento,12,Wednesday
+203454,1,Midtown,20,Sunday
+221626,1,Upper Land,1,Sunday
+357966,1,North Sacramento,20,Thursday
+876627,1,Cal Expo,6,Friday
+966126,1,South Land,12,Monday
+782729,3,North Sacramento,5,Friday
+129553,1,Midtown,8,Tuesday
+357966,4,North Sacramento,2,Wednesday
+876627,3,Cal Expo,23,Wednesday
+782729,1,South Land,10,Wednesday
+457848,1,South Land,4,Thursday
+656573,1,Upper Land,0,Saturday
+876627,2,Oak Park,20,Wednesday
+799380,3,South Natomas,15,Wednesday
+417009,5,West Sacramento,14,Wednesday
+740474,2,Upper Land,10,Thursday
+417009,3,South Natomas,3,Friday
+424718,2,South Natomas,11,Thursday
+575961,4,Midtown,5,Monday
+740474,3,Oak Park,23,Thursday
+391708,3,Oak Park,13,Monday
+120672,1,SW Sacramento,12,Sunday
+926868,3,Midtown,15,Monday
+203454,1,SW Sacramento,13,Sunday
+417528,2,South Natomas,12,Sunday
+417528,1,SW Sacramento,19,Tuesday
+966126,2,Oak Park,22,Tuesday
+782729,2,Oak Park,19,Friday
+357966,4,West Sacramento,17,Monday
+203454,1,SW Sacramento,3,Tuesday
+644730,2,Midtown,15,Saturday
+741835,4,South Natomas,0,Sunday
+656573,1,West Sacramento,23,Sunday
+855119,1,North Sacramento,23,Wednesday
+966126,3,Upper Land,7,Tuesday
+876627,1,South Land,10,Tuesday
+417009,1,Upper Land,11,Sunday
+740474,3,North Sacramento,3,Thursday
+417009,4,Upper Land,10,Sunday
+656573,1,SW Sacramento,22,Tuesday
+966126,5,West Sacramento,13,Friday
+357966,3,West Sacramento,5,Thursday
+417009,1,SW Sacramento,13,Thursday
+391708,2,West Sacramento,2,Friday
+846554,2,South Land,1,Wednesday
+391708,1,Upper Land,17,Monday
+457848,4,Cal Expo,16,Wednesday
+855119,1,West Sacramento,19,Tuesday
+417009,2,Midtown,4,Sunday
+855119,2,SW Sacramento,4,Friday
+120672,1,Oak Park,12,Tuesday
+966126,1,West Sacramento,16,Wednesday
+120672,2,West Sacramento,14,Friday
+129553,3,Cal Expo,20,Tuesday
+846554,2,Oak Park,9,Monday
+203454,1,Midtown,14,Monday
+240196,3,Cal Expo,8,Wednesday
+782729,4,South Land,7,Friday
+575961,1,Upper Land,7,Friday
+846554,1,Oak Park,8,Wednesday
+966126,4,Midtown,0,Wednesday
+799380,1,Upper Land,13,Monday
+876627,2,North Sacramento,14,Saturday
+966126,1,South Natomas,0,Friday
+926868,1,South Land,2,Thursday
+391708,1,Upper Land,17,Monday
+417528,2,South Land,11,Saturday
+203454,1,South Land,3,Monday
+846554,3,West Sacramento,10,Monday
+417009,2,Oak Park,5,Monday
+542696,1,Midtown,9,Tuesday
+120672,2,West Sacramento,9,Monday
+644730,4,West Sacramento,6,Wednesday
+846554,1,South Natomas,23,Friday
+240196,2,Oak Park,16,Saturday
+741835,3,West Sacramento,10,Monday
+417528,2,Upper Land,14,Thursday
+926868,3,Midtown,21,Tuesday
+741835,1,West Sacramento,1,Wednesday
+846554,1,North Sacramento,20,Wednesday
+575961,2,Upper Land,3,Saturday
+391708,1,Upper Land,8,Saturday
+417528,1,West Sacramento,17,Saturday
+740474,2,Cal Expo,5,Friday
+741835,1,South Land,14,Thursday
+391708,4,Cal Expo,6,Saturday
+846554,4,Upper Land,12,Monday
+240196,1,North Sacramento,16,Sunday
+926868,3,North Sacramento,18,Tuesday
+741835,2,Midtown,17,Friday
+855119,4,South Land,0,Saturday
+424718,1,Oak Park,12,Tuesday
+357966,2,Oak Park,15,Wednesday
+417528,5,Oak Park,7,Saturday
+740474,1,North Sacramento,2,Friday
+417009,2,North Sacramento,11,Sunday
+846554,2,North Sacramento,15,Thursday
+782729,3,West Sacramento,22,Thursday
+293073,1,SW Sacramento,22,Thursday
+240196,4,Cal Expo,1,Saturday
+966126,1,Midtown,4,Friday
+391708,1,Cal Expo,20,Friday
+855119,2,Upper Land,21,Monday
+120672,2,Cal Expo,4,Saturday
+120672,1,North Sacramento,15,Monday
+417009,1,Midtown,18,Tuesday
+221626,1,North Sacramento,18,Saturday
+129553,1,Oak Park,9,Tuesday
+740474,2,South Land,11,Wednesday
+926868,1,North Sacramento,21,Thursday
+417009,3,SW Sacramento,14,Monday
+120672,4,South Land,3,Wednesday
+221626,1,Upper Land,14,Wednesday
+575961,1,Cal Expo,9,Tuesday
+293073,3,South Land,5,Thursday
+782729,2,Midtown,10,Wednesday
+293073,1,Cal Expo,12,Monday
+966126,2,South Land,16,Monday
+391708,1,South Natomas,2,Monday
+542696,5,Upper Land,7,Tuesday
+966126,1,West Sacramento,13,Sunday
+417009,3,South Land,15,Saturday
+424718,2,Oak Park,22,Saturday
+644730,1,Cal Expo,23,Saturday
+391708,3,SW Sacramento,9,Tuesday
+782729,4,North Sacramento,8,Tuesday
+644730,2,SW Sacramento,14,Wednesday
+417528,1,Midtown,8,Friday
+120672,1,North Sacramento,2,Wednesday
+221626,4,North Sacramento,9,Thursday
+740474,1,SW Sacramento,11,Thursday
+424718,2,Upper Land,22,Friday
+855119,2,Midtown,5,Thursday
+129553,2,Upper Land,14,Friday
+417009,3,North Sacramento,11,Thursday
+457848,1,SW Sacramento,23,Friday
+240196,2,Cal Expo,15,Saturday
+644730,1,North Sacramento,16,Sunday
+120672,5,South Natomas,4,Sunday
+799380,2,South Natomas,21,Thursday
+876627,2,South Land,1,Thursday
+656573,1,South Land,7,Sunday
+221626,3,West Sacramento,10,Thursday
+926868,1,Oak Park,9,Sunday
+129553,4,Upper Land,1,Sunday
+417528,5,South Natomas,23,Sunday
+966126,2,North Sacramento,0,Friday
+417528,2,South Natomas,4,Tuesday
+741835,1,Midtown,19,Thursday
+926868,2,Upper Land,2,Monday
+129553,3,SW Sacramento,22,Saturday
+457848,2,Cal Expo,13,Wednesday
+120672,2,North Sacramento,16,Wednesday
+457848,2,North Sacramento,9,Tuesday
+855119,2,North Sacramento,17,Monday
+855119,5,Oak Park,20,Wednesday
+129553,4,Cal Expo,23,Tuesday
+417528,1,Cal Expo,6,Thursday
+966126,1,South Natomas,11,Thursday
+240196,1,Cal Expo,8,Thursday
+966126,4,South Natomas,18,Sunday
+740474,1,West Sacramento,15,Monday
+741835,3,West Sacramento,10,Saturday
+644730,2,West Sacramento,2,Monday
+221626,2,Midtown,15,Tuesday
+656573,1,Oak Park,15,Sunday
+203454,1,Midtown,9,Wednesday
+876627,3,West Sacramento,3,Monday
+391708,4,Midtown,1,Wednesday
+129553,2,West Sacramento,7,Friday
+391708,1,South Land,13,Sunday
+644730,1,North Sacramento,12,Thursday
+966126,1,North Sacramento,4,Wednesday
+926868,2,Oak Park,12,Saturday
+417528,1,Cal Expo,20,Saturday
+799380,1,South Land,21,Friday
+457848,5,South Land,3,Sunday
+457848,3,Midtown,8,Thursday
+741835,1,South Natomas,21,Monday
+391708,2,South Land,21,Friday
+417528,4,Midtown,13,Saturday
+120672,1,Midtown,21,Thursday
+120672,3,Midtown,14,Sunday
+357966,4,Midtown,8,Friday
+221626,1,Oak Park,17,Wednesday
+391708,4,Midtown,23,Monday
+240196,1,Oak Park,10,Wednesday
+656573,1,West Sacramento,6,Wednesday
+782729,1,North Sacramento,21,Saturday
+240196,2,South Natomas,7,Wednesday
+740474,1,North Sacramento,18,Tuesday
+782729,3,South Land,22,Sunday
+129553,4,South Natomas,9,Sunday
+855119,1,Midtown,21,Wednesday
+782729,2,Cal Expo,22,Thursday
+240196,3,North Sacramento,10,Friday
+120672,1,South Natomas,3,Friday
+203454,5,Cal Expo,20,Wednesday
+575961,1,North Sacramento,8,Tuesday
+966126,1,North Sacramento,0,Thursday
+417009,1,Upper Land,3,Wednesday
+293073,2,Cal Expo,23,Friday
+542696,1,Cal Expo,9,Tuesday
+424718,1,South Natomas,15,Tuesday
+846554,1,South Natomas,2,Tuesday
+203454,2,North Sacramento,14,Saturday
+876627,2,South Land,8,Saturday
+542696,1,South Natomas,22,Wednesday
+221626,2,South Land,5,Thursday
+221626,1,Oak Park,1,Friday
+656573,2,North Sacramento,9,Friday
+129553,5,South Natomas,0,Sunday
+542696,1,Oak Park,13,Monday
+417528,3,Upper Land,4,Saturday
+357966,3,Upper Land,10,Thursday
+391708,2,West Sacramento,7,Tuesday
+575961,3,North Sacramento,13,Friday
+782729,3,Midtown,22,Tuesday
+417009,5,Upper Land,9,Sunday
+129553,3,Midtown,8,Friday
+457848,3,Oak Park,19,Sunday
+575961,1,Cal Expo,13,Monday
+799380,3,North Sacramento,19,Friday
+240196,1,Cal Expo,13,Saturday
+240196,4,Upper Land,10,Friday
+240196,3,Midtown,22,Saturday
+391708,5,West Sacramento,10,Friday
+293073,1,Midtown,20,Friday
+741835,2,Cal Expo,14,Saturday
+740474,4,SW Sacramento,18,Friday
+357966,5,Oak Park,13,Tuesday
+424718,2,West Sacramento,6,Tuesday
+221626,2,Cal Expo,11,Friday
+644730,2,Oak Park,13,Tuesday
+221626,3,Cal Expo,23,Tuesday
+457848,1,South Natomas,6,Tuesday
+293073,1,Midtown,21,Tuesday
+542696,1,South Natomas,20,Tuesday
+740474,1,West Sacramento,1,Friday
+926868,5,Oak Park,7,Saturday
+876627,2,West Sacramento,19,Tuesday
+120672,2,Cal Expo,4,Tuesday
+417528,1,Midtown,10,Saturday
+417009,1,Upper Land,3,Tuesday
+782729,1,Midtown,5,Wednesday
+457848,1,South Natomas,5,Saturday
+741835,1,Upper Land,1,Monday
+542696,1,South Land,8,Saturday
+357966,1,Upper Land,19,Sunday
+926868,2,SW Sacramento,6,Sunday
+575961,1,Cal Expo,3,Thursday
+740474,2,Cal Expo,7,Saturday
+240196,1,SW Sacramento,17,Saturday
+542696,3,SW Sacramento,6,Saturday
+966126,1,Cal Expo,2,Thursday
+644730,3,South Land,1,Friday
+240196,1,South Natomas,14,Sunday
+417528,1,Oak Park,4,Saturday
+575961,3,Cal Expo,0,Wednesday
+457848,2,Midtown,10,Friday
+240196,2,South Land,18,Sunday
+876627,2,South Natomas,5,Tuesday
+656573,1,Cal Expo,4,Sunday
+293073,1,Upper Land,4,Wednesday
+741835,1,SW Sacramento,1,Thursday
+855119,5,North Sacramento,8,Wednesday
+782729,1,Oak Park,13,Thursday
+457848,4,South Natomas,5,Tuesday
+417528,2,Upper Land,3,Tuesday
+293073,1,South Land,0,Sunday
+457848,2,North Sacramento,6,Sunday
+424718,1,South Land,9,Tuesday
+293073,1,Oak Park,13,Sunday
+417528,1,South Land,7,Sunday
+417009,4,West Sacramento,12,Wednesday
+799380,3,West Sacramento,17,Saturday
+644730,1,South Land,1,Wednesday
+846554,4,North Sacramento,12,Tuesday
+424718,3,Oak Park,12,Wednesday
+293073,1,Cal Expo,7,Saturday
+542696,2,South Natomas,8,Friday
+656573,2,South Natomas,16,Saturday
+424718,1,Oak Park,16,Monday
+120672,2,Oak Park,19,Saturday
+740474,1,South Land,9,Thursday
+740474,1,South Natomas,9,Tuesday
+357966,1,Oak Park,11,Saturday
+644730,1,Midtown,4,Saturday
+417009,2,South Natomas,3,Tuesday
+457848,2,Cal Expo,9,Tuesday
+966126,2,Midtown,12,Sunday
+782729,2,South Land,6,Sunday
+417528,4,West Sacramento,9,Monday
+575961,1,Midtown,21,Wednesday
+741835,5,West Sacramento,1,Sunday
+129553,1,Oak Park,2,Monday
+203454,1,South Natomas,4,Tuesday
+966126,1,Midtown,7,Wednesday
+876627,1,Upper Land,17,Tuesday
+457848,2,South Land,16,Wednesday
+741835,3,Midtown,11,Monday
+656573,2,Upper Land,22,Thursday
+424718,2,Oak Park,0,Tuesday
+741835,2,South Land,23,Monday
+424718,2,South Natomas,14,Saturday
+424718,1,South Land,3,Friday
+240196,1,Oak Park,7,Sunday
+855119,2,Oak Park,11,Wednesday
+741835,1,Upper Land,7,Saturday
+926868,5,Oak Park,19,Thursday
+855119,3,SW Sacramento,1,Saturday
+644730,2,Upper Land,18,Thursday
+644730,1,Oak Park,1,Saturday
+240196,1,Cal Expo,23,Tuesday
+740474,1,North Sacramento,20,Sunday
+542696,1,Oak Park,19,Tuesday
+120672,3,Midtown,16,Saturday
+741835,2,North Sacramento,12,Monday
+203454,3,West Sacramento,3,Thursday
+855119,1,South Natomas,2,Saturday
+417528,1,West Sacramento,15,Friday
+966126,1,South Land,4,Monday
+656573,1,Midtown,10,Sunday
+741835,2,SW Sacramento,12,Monday
+782729,3,West Sacramento,19,Thursday
+417009,3,SW Sacramento,1,Saturday
+855119,4,SW Sacramento,20,Thursday
+417528,5,Cal Expo,12,Wednesday
+644730,4,Upper Land,14,Wednesday
+542696,2,South Natomas,14,Friday
+855119,1,Midtown,8,Sunday
+357966,3,Cal Expo,3,Sunday
+221626,3,Oak Park,4,Saturday
+656573,2,Cal Expo,19,Thursday
+424718,1,Cal Expo,13,Thursday
+741835,2,Upper Land,21,Saturday
+417009,3,South Land,4,Wednesday
+542696,3,West Sacramento,4,Wednesday
+876627,1,South Land,8,Wednesday
+417009,2,Cal Expo,4,Monday
+129553,1,South Land,3,Wednesday
+782729,3,SW Sacramento,20,Thursday
+966126,4,West Sacramento,1,Sunday
+391708,1,West Sacramento,2,Tuesday
+741835,1,Cal Expo,11,Monday
+129553,2,Midtown,10,Wednesday
+391708,2,South Natomas,0,Friday
+417009,1,West Sacramento,2,Saturday
+240196,1,Midtown,18,Thursday
+656573,2,South Land,1,Sunday
+575961,2,West Sacramento,2,Sunday
+391708,1,South Land,19,Wednesday
+240196,3,Oak Park,13,Wednesday
+741835,2,North Sacramento,15,Tuesday
+424718,1,North Sacramento,5,Wednesday
+799380,2,South Land,14,Thursday
+575961,1,Cal Expo,15,Wednesday
+129553,1,Cal Expo,18,Monday
+575961,2,South Land,2,Friday
+782729,2,SW Sacramento,9,Saturday
+740474,3,Cal Expo,5,Tuesday
+966126,1,South Land,10,Thursday
+782729,2,South Land,23,Wednesday
+876627,1,South Natomas,2,Tuesday
+457848,1,South Land,17,Saturday
+876627,1,Oak Park,9,Tuesday
+357966,2,Midtown,20,Monday
+457848,1,Upper Land,7,Saturday
+221626,2,Cal Expo,3,Monday
+240196,1,Upper Land,2,Thursday
+741835,1,Midtown,9,Wednesday
+293073,3,Upper Land,22,Friday
+966126,3,South Natomas,2,Friday
+542696,4,SW Sacramento,11,Saturday
+221626,1,Oak Park,18,Thursday
+740474,2,Cal Expo,20,Wednesday
+926868,5,Upper Land,23,Friday
+782729,1,South Natomas,22,Wednesday
+357966,4,North Sacramento,23,Friday
+542696,3,SW Sacramento,5,Friday
+391708,1,West Sacramento,17,Thursday
+782729,3,South Natomas,5,Saturday
+221626,3,Midtown,12,Saturday
+575961,1,Cal Expo,2,Thursday
+417528,2,Midtown,16,Monday
+457848,4,North Sacramento,16,Tuesday
+457848,5,North Sacramento,9,Sunday
+575961,2,Oak Park,4,Tuesday
+741835,1,SW Sacramento,18,Tuesday
+741835,2,Upper Land,8,Friday
+926868,1,SW Sacramento,22,Friday
+966126,1,West Sacramento,13,Friday
+417009,2,South Land,19,Thursday
+656573,1,South Land,10,Thursday
+740474,1,Cal Expo,8,Thursday
+391708,1,Upper Land,18,Wednesday
+417009,3,Upper Land,18,Thursday
+221626,2,SW Sacramento,12,Tuesday
+644730,5,South Natomas,2,Sunday
+966126,5,South Land,14,Wednesday
+357966,2,South Land,11,Saturday
+424718,1,Upper Land,1,Tuesday
+542696,1,Upper Land,10,Thursday
+424718,1,North Sacramento,20,Saturday
+855119,1,SW Sacramento,14,Monday
+424718,4,North Sacramento,16,Friday
+656573,1,North Sacramento,22,Sunday
+357966,1,Oak Park,10,Friday
+357966,1,North Sacramento,7,Wednesday
+424718,3,Cal Expo,1,Friday
+417009,2,South Natomas,1,Saturday
+203454,2,South Natomas,16,Wednesday
+221626,1,SW Sacramento,22,Sunday
+926868,3,Cal Expo,17,Friday
+424718,5,SW Sacramento,23,Saturday
+417528,1,South Natomas,11,Thursday
+424718,1,West Sacramento,2,Wednesday
+855119,1,South Land,8,Friday
+129553,2,SW Sacramento,19,Sunday
+740474,1,West Sacramento,17,Friday
+129553,5,Upper Land,11,Thursday
+966126,2,Upper Land,18,Tuesday
+203454,1,Cal Expo,5,Friday
+644730,2,SW Sacramento,5,Sunday
+966126,3,South Land,5,Saturday
+926868,2,South Land,17,Sunday
+417009,1,South Natomas,18,Monday
+203454,2,South Natomas,17,Thursday
+293073,3,North Sacramento,0,Saturday
+855119,1,Oak Park,8,Tuesday
+876627,4,West Sacramento,12,Wednesday
+293073,2,SW Sacramento,18,Thursday
+740474,4,South Natomas,5,Tuesday
+966126,5,Upper Land,6,Tuesday
+293073,2,Oak Park,6,Saturday
+966126,3,North Sacramento,2,Tuesday
+391708,1,Cal Expo,18,Tuesday
+391708,2,SW Sacramento,15,Friday
+575961,3,Upper Land,5,Saturday
+575961,4,Upper Land,4,Sunday
+120672,2,West Sacramento,0,Friday
+740474,2,Cal Expo,13,Tuesday
+799380,2,Oak Park,7,Saturday
+741835,5,North Sacramento,19,Tuesday
+926868,3,South Natomas,16,Tuesday
+129553,2,Upper Land,18,Monday
+926868,3,North Sacramento,0,Sunday
+966126,2,SW Sacramento,4,Wednesday
+740474,2,South Natomas,8,Friday
+221626,3,South Land,8,Tuesday
+129553,1,North Sacramento,0,Thursday
+424718,2,North Sacramento,19,Saturday
+424718,2,Oak Park,16,Saturday
+656573,1,Oak Park,23,Wednesday
+240196,3,West Sacramento,13,Thursday
+846554,2,Cal Expo,15,Wednesday
+120672,2,South Natomas,6,Sunday
+644730,2,South Natomas,4,Wednesday
+417528,1,South Natomas,9,Tuesday
+120672,2,West Sacramento,10,Wednesday
+740474,1,SW Sacramento,4,Tuesday
+457848,4,Cal Expo,3,Wednesday
+221626,1,Midtown,3,Monday
+120672,5,Midtown,11,Friday
+876627,3,South Natomas,15,Tuesday
+293073,1,South Land,17,Sunday
+417009,1,North Sacramento,9,Friday
+855119,1,North Sacramento,18,Tuesday
+221626,1,SW Sacramento,23,Wednesday
+926868,2,Oak Park,7,Saturday
+203454,4,SW Sacramento,22,Wednesday
+203454,1,Upper Land,12,Thursday
+846554,2,Cal Expo,22,Tuesday
+656573,2,North Sacramento,18,Sunday
+457848,2,Upper Land,7,Thursday
+926868,5,Oak Park,4,Tuesday
+575961,2,South Natomas,9,Friday
+417009,2,North Sacramento,23,Wednesday
+575961,1,Oak Park,16,Tuesday
+644730,1,Upper Land,13,Tuesday
+293073,2,SW Sacramento,2,Friday
+966126,2,South Natomas,6,Tuesday
+644730,1,North Sacramento,2,Tuesday
+876627,1,North Sacramento,3,Tuesday
+741835,1,North Sacramento,18,Tuesday
+926868,1,North Sacramento,6,Thursday
+424718,2,North Sacramento,9,Friday
+741835,2,Midtown,14,Saturday
+417009,1,South Natomas,18,Wednesday
+782729,1,Upper Land,5,Thursday
+644730,2,West Sacramento,16,Wednesday
+120672,4,SW Sacramento,21,Saturday
+876627,2,Oak Park,11,Tuesday
+656573,2,Midtown,17,Monday
+129553,4,South Land,5,Thursday
+129553,3,Cal Expo,15,Sunday
+799380,3,West Sacramento,20,Sunday
+575961,4,Cal Expo,1,Saturday
+424718,2,Oak Park,13,Monday
+966126,1,South Land,21,Tuesday
+656573,3,SW Sacramento,3,Saturday
+876627,1,Cal Expo,7,Monday
+129553,2,Oak Park,20,Wednesday
+656573,4,South Natomas,9,Wednesday
+575961,2,South Natomas,13,Tuesday
+966126,3,West Sacramento,5,Friday
+799380,3,West Sacramento,14,Thursday
+457848,1,SW Sacramento,13,Thursday
+203454,3,Oak Park,15,Tuesday
+240196,1,West Sacramento,15,Friday
+391708,2,Cal Expo,1,Sunday
+740474,3,Cal Expo,13,Sunday
+357966,2,South Natomas,4,Tuesday
+417528,5,Cal Expo,18,Friday
+542696,1,Oak Park,16,Saturday
+876627,2,North Sacramento,4,Wednesday
+424718,4,West Sacramento,21,Thursday
+221626,1,West Sacramento,5,Tuesday
+644730,1,South Land,5,Friday
+855119,2,Oak Park,8,Wednesday
+457848,1,Upper Land,6,Tuesday
+221626,2,South Natomas,20,Sunday
+391708,3,West Sacramento,3,Thursday
+293073,1,Upper Land,13,Sunday
+417528,1,South Land,17,Friday
+876627,3,Oak Park,21,Monday
+424718,5,Cal Expo,2,Wednesday
+129553,1,North Sacramento,16,Wednesday
+417009,2,Oak Park,16,Friday
+293073,2,South Land,23,Wednesday
+129553,2,SW Sacramento,0,Sunday
+782729,1,North Sacramento,11,Saturday
+391708,1,South Land,13,Friday
+120672,2,Upper Land,17,Monday
+457848,1,South Land,8,Thursday
+656573,1,West Sacramento,16,Friday
+357966,1,North Sacramento,5,Tuesday
+846554,1,South Natomas,9,Tuesday
+293073,3,Upper Land,21,Tuesday
+926868,1,South Natomas,5,Saturday
+740474,3,Midtown,9,Friday
+542696,4,SW Sacramento,10,Thursday
+575961,1,SW Sacramento,9,Thursday
+876627,4,South Land,11,Wednesday
+357966,1,Upper Land,6,Saturday
+542696,4,Upper Land,1,Tuesday
+741835,4,Midtown,22,Tuesday
+129553,1,West Sacramento,6,Saturday
+926868,2,South Natomas,7,Monday
+926868,5,South Natomas,6,Thursday
+966126,1,South Land,0,Thursday
+357966,4,Upper Land,18,Sunday
+542696,1,North Sacramento,1,Monday
+799380,2,Oak Park,16,Monday
+926868,1,Upper Land,2,Thursday
+644730,5,SW Sacramento,12,Tuesday
+424718,4,Oak Park,4,Saturday
+424718,1,North Sacramento,18,Saturday
+876627,1,South Natomas,10,Saturday
+424718,1,West Sacramento,22,Wednesday
+357966,1,Oak Park,13,Wednesday
+799380,3,Oak Park,21,Sunday
+741835,2,North Sacramento,8,Tuesday
+391708,1,South Land,4,Monday
+741835,4,North Sacramento,20,Tuesday
+741835,1,North Sacramento,23,Monday
+575961,1,West Sacramento,12,Thursday
+417528,1,North Sacramento,9,Thursday
+129553,1,Oak Park,10,Monday
+417009,1,Upper Land,9,Sunday
+203454,1,Upper Land,3,Tuesday
+417009,3,Midtown,4,Wednesday
+203454,2,SW Sacramento,17,Saturday
+799380,2,SW Sacramento,2,Friday
+424718,5,Midtown,4,Monday
+457848,2,Cal Expo,7,Monday
+417009,2,South Land,21,Tuesday
+221626,4,North Sacramento,15,Monday
+457848,1,Cal Expo,4,Thursday
+644730,1,Cal Expo,23,Wednesday
+644730,2,Midtown,20,Thursday
+782729,4,South Land,23,Monday
+966126,2,SW Sacramento,15,Tuesday
+417009,1,Midtown,20,Sunday
+799380,2,SW Sacramento,10,Sunday
+966126,1,West Sacramento,7,Saturday
+740474,1,Oak Park,21,Monday
+799380,2,South Land,20,Saturday
+656573,2,SW Sacramento,14,Sunday
+417528,4,North Sacramento,23,Friday
+966126,4,North Sacramento,21,Saturday
+740474,1,SW Sacramento,17,Friday
+417528,1,Cal Expo,15,Saturday
+424718,3,Upper Land,18,Monday
+542696,4,West Sacramento,1,Wednesday
+644730,1,South Land,0,Tuesday
+575961,2,Oak Park,22,Tuesday
+221626,2,West Sacramento,8,Tuesday
+203454,4,South Natomas,21,Friday
+575961,1,Oak Park,19,Friday
+644730,1,Cal Expo,4,Friday
+417528,1,Oak Park,20,Wednesday
+542696,1,Upper Land,2,Sunday
+457848,2,North Sacramento,5,Tuesday
+424718,3,South Land,12,Thursday
+203454,1,North Sacramento,8,Friday
+846554,1,Upper Land,21,Tuesday
+740474,1,North Sacramento,23,Sunday
+846554,1,Oak Park,14,Saturday
+656573,1,North Sacramento,4,Sunday
+240196,2,Oak Park,21,Tuesday
+293073,2,Oak Park,7,Friday
+926868,1,South Land,14,Tuesday
+740474,4,South Natomas,12,Wednesday
+656573,2,SW Sacramento,18,Thursday
+846554,1,West Sacramento,8,Monday
+799380,2,West Sacramento,0,Friday
+203454,1,North Sacramento,15,Thursday
+221626,1,North Sacramento,2,Sunday
+644730,2,Oak Park,7,Thursday
+846554,2,Upper Land,12,Monday
+741835,3,Oak Park,21,Tuesday
+120672,1,North Sacramento,0,Monday
+741835,3,Cal Expo,16,Wednesday
+876627,5,West Sacramento,18,Tuesday
+293073,2,South Land,5,Saturday
+876627,3,South Land,19,Thursday
+221626,2,Oak Park,22,Saturday
+966126,1,Midtown,15,Saturday
+457848,1,Midtown,16,Monday
+240196,3,South Natomas,5,Monday
+417528,4,SW Sacramento,22,Tuesday
+656573,1,Midtown,10,Wednesday
+741835,1,West Sacramento,12,Friday
+575961,3,West Sacramento,20,Saturday
+741835,1,South Land,17,Wednesday
+293073,2,North Sacramento,9,Sunday
+656573,1,West Sacramento,10,Monday
+542696,5,South Land,7,Friday
+542696,3,North Sacramento,5,Friday
+221626,2,Midtown,22,Friday
+417009,2,North Sacramento,12,Wednesday
+644730,1,SW Sacramento,23,Friday
+203454,4,Upper Land,3,Wednesday
+926868,4,Midtown,19,Thursday
+417009,2,North Sacramento,18,Sunday
+741835,3,South Land,20,Monday
+799380,1,Oak Park,13,Sunday
+221626,2,Cal Expo,11,Tuesday
+457848,2,Midtown,0,Thursday
+417009,1,South Land,19,Thursday
+417528,1,Upper Land,4,Friday
+542696,2,North Sacramento,14,Friday
+846554,1,South Land,2,Friday
+424718,2,Midtown,22,Tuesday
+417009,1,Upper Land,19,Friday
+203454,2,Midtown,11,Thursday
+129553,1,Midtown,0,Saturday
+293073,4,Cal Expo,22,Sunday
+782729,1,Upper Land,14,Wednesday
+391708,3,Midtown,1,Friday
+240196,4,SW Sacramento,20,Thursday
+855119,2,South Land,9,Thursday
+644730,1,West Sacramento,8,Tuesday
+799380,1,North Sacramento,12,Monday
+417528,5,South Natomas,11,Friday
+391708,2,South Land,8,Friday
+391708,2,South Land,1,Wednesday
+575961,3,South Land,0,Saturday
+457848,1,South Land,7,Thursday
+926868,2,North Sacramento,23,Thursday
+129553,4,South Land,15,Wednesday
+221626,1,South Natomas,12,Saturday
+417009,3,Oak Park,6,Friday
+417528,2,Oak Park,5,Friday
+424718,4,South Land,1,Thursday
+424718,3,South Natomas,18,Monday
+966126,2,Cal Expo,23,Sunday
+644730,1,Cal Expo,7,Friday
+129553,1,Upper Land,12,Thursday
+542696,1,Cal Expo,20,Wednesday
+417528,5,South Natomas,15,Saturday
+424718,3,Upper Land,6,Sunday
+575961,2,North Sacramento,9,Saturday
+644730,3,North Sacramento,10,Wednesday
+799380,2,South Natomas,15,Thursday
+644730,1,Midtown,13,Wednesday
+120672,2,Cal Expo,4,Wednesday
+221626,4,Cal Expo,17,Monday
+457848,5,South Land,15,Thursday
+457848,1,South Natomas,12,Wednesday
+966126,1,Midtown,21,Monday
+129553,1,Cal Expo,18,Friday
+799380,3,North Sacramento,14,Friday
+846554,5,South Natomas,7,Thursday
+417009,1,South Natomas,0,Tuesday
+221626,2,South Natomas,10,Tuesday
+357966,1,West Sacramento,14,Saturday
+855119,3,North Sacramento,19,Tuesday
+391708,2,Midtown,15,Tuesday
+644730,1,Oak Park,21,Tuesday
+203454,1,Cal Expo,12,Friday
+417528,1,South Natomas,5,Wednesday
+357966,2,South Land,10,Saturday
+357966,4,South Natomas,12,Saturday
+656573,2,West Sacramento,20,Saturday
+644730,2,South Land,15,Saturday
+876627,1,Upper Land,22,Friday
+846554,4,Midtown,19,Friday
+782729,2,Cal Expo,6,Monday
+129553,4,Oak Park,11,Tuesday
+203454,2,SW Sacramento,2,Saturday
+129553,2,North Sacramento,5,Wednesday
+740474,3,Cal Expo,10,Tuesday
+799380,5,North Sacramento,7,Wednesday
+203454,1,Cal Expo,2,Thursday
+644730,1,Midtown,5,Thursday
+357966,4,North Sacramento,0,Sunday
+203454,1,Upper Land,23,Tuesday
+120672,2,Oak Park,0,Thursday
+876627,1,Upper Land,0,Sunday
+876627,1,Upper Land,19,Sunday
+876627,2,South Natomas,0,Friday
+457848,3,South Land,17,Thursday
+417009,3,North Sacramento,10,Wednesday
+120672,1,North Sacramento,22,Wednesday
+966126,1,Midtown,15,Monday
+782729,2,North Sacramento,11,Thursday
+966126,1,Cal Expo,15,Wednesday
+457848,4,Cal Expo,4,Sunday
+855119,5,North Sacramento,3,Wednesday
+221626,1,North Sacramento,15,Thursday
+846554,1,South Natomas,13,Thursday
+741835,4,Cal Expo,17,Thursday
+457848,1,North Sacramento,3,Friday
+221626,2,SW Sacramento,17,Monday
+644730,3,SW Sacramento,1,Wednesday
+846554,2,Oak Park,1,Thursday
+424718,1,Cal Expo,16,Wednesday
+221626,1,South Natomas,11,Monday
+542696,2,SW Sacramento,13,Friday
+542696,3,Cal Expo,0,Sunday
+457848,1,Midtown,13,Wednesday
+457848,2,North Sacramento,18,Friday
+926868,2,South Land,22,Friday
+221626,1,Upper Land,13,Tuesday
+240196,1,West Sacramento,19,Saturday
+926868,1,Oak Park,6,Thursday
+782729,1,South Natomas,21,Thursday
+741835,1,South Land,4,Tuesday
+782729,2,West Sacramento,19,Saturday
+424718,1,South Natomas,8,Monday
+740474,3,Midtown,23,Thursday
+876627,2,North Sacramento,21,Wednesday
+740474,4,North Sacramento,19,Thursday
+542696,5,North Sacramento,12,Thursday
+203454,2,Midtown,12,Tuesday
+575961,2,West Sacramento,9,Monday
+741835,1,Upper Land,19,Thursday
+876627,1,SW Sacramento,13,Monday
+575961,4,West Sacramento,21,Wednesday
+846554,2,Midtown,11,Thursday
+203454,3,Cal Expo,20,Thursday
+644730,4,Cal Expo,6,Monday
+424718,3,Upper Land,23,Saturday
+293073,1,Upper Land,13,Thursday
+240196,2,West Sacramento,1,Tuesday
+357966,4,Cal Expo,17,Friday
+656573,1,Cal Expo,10,Tuesday
+357966,1,Cal Expo,6,Monday
+966126,2,Upper Land,9,Wednesday
+926868,1,South Natomas,20,Monday
+293073,1,South Natomas,7,Tuesday
+575961,3,SW Sacramento,13,Tuesday
+129553,1,Cal Expo,12,Sunday
+120672,5,Upper Land,18,Monday
+240196,3,Oak Park,10,Saturday
+966126,1,SW Sacramento,21,Friday
+741835,2,North Sacramento,19,Tuesday
+457848,3,West Sacramento,4,Thursday
+129553,4,Cal Expo,16,Friday
+740474,1,Midtown,10,Wednesday
+575961,1,Midtown,13,Monday
+926868,2,Midtown,22,Monday
+741835,1,Midtown,20,Sunday
+876627,1,South Natomas,16,Saturday
+741835,5,South Natomas,19,Tuesday
+357966,1,North Sacramento,15,Sunday
+457848,2,Cal Expo,5,Tuesday
+542696,1,West Sacramento,15,Monday
+120672,1,North Sacramento,13,Saturday
+424718,1,Oak Park,14,Thursday
+855119,1,Upper Land,1,Tuesday
+457848,4,Oak Park,12,Wednesday
+966126,2,West Sacramento,15,Sunday
+876627,2,SW Sacramento,16,Wednesday
+575961,4,North Sacramento,17,Friday
+120672,4,SW Sacramento,18,Friday
+417009,1,North Sacramento,5,Thursday
+846554,2,South Land,19,Sunday
+799380,2,Oak Park,11,Wednesday
+457848,3,Cal Expo,21,Wednesday
+740474,2,South Natomas,11,Thursday
+240196,1,Upper Land,13,Friday
+741835,1,SW Sacramento,10,Sunday
+457848,2,Midtown,16,Saturday
+542696,1,Oak Park,9,Sunday
+846554,4,Midtown,20,Tuesday
+417009,2,Oak Park,5,Saturday
+417009,2,South Natomas,0,Sunday
+120672,3,Upper Land,3,Saturday
+357966,2,North Sacramento,0,Monday
+644730,3,SW Sacramento,15,Monday
+417528,2,South Natomas,0,Monday
+740474,1,Upper Land,4,Thursday
+656573,2,Cal Expo,18,Friday
+644730,4,Midtown,2,Tuesday
+129553,1,West Sacramento,3,Friday
+740474,1,Midtown,18,Saturday
+926868,4,West Sacramento,11,Monday
+129553,2,North Sacramento,23,Sunday
+799380,3,South Land,21,Friday
+644730,2,SW Sacramento,20,Saturday
+656573,4,Cal Expo,21,Monday
+357966,3,Upper Land,5,Wednesday
+542696,2,Oak Park,0,Monday
+293073,3,South Natomas,10,Saturday
+203454,1,Midtown,1,Wednesday
+926868,3,South Land,3,Sunday
+240196,2,Cal Expo,11,Sunday
+656573,2,Oak Park,16,Saturday
+417528,4,Upper Land,2,Tuesday
+457848,2,SW Sacramento,5,Sunday
+203454,5,West Sacramento,10,Friday
+221626,1,South Natomas,23,Monday
+966126,1,Upper Land,8,Thursday
+240196,4,South Natomas,3,Friday
+644730,4,SW Sacramento,4,Friday
+203454,2,Upper Land,5,Wednesday
+542696,2,South Land,8,Sunday
+656573,3,SW Sacramento,1,Thursday
+644730,3,SW Sacramento,21,Friday
+741835,1,North Sacramento,1,Friday
+644730,2,South Natomas,4,Sunday
+221626,2,West Sacramento,17,Wednesday
+876627,4,Cal Expo,12,Thursday
+741835,1,Oak Park,21,Wednesday
+740474,1,Midtown,12,Sunday
+417528,2,South Natomas,19,Saturday
+542696,1,South Land,1,Wednesday
+656573,1,SW Sacramento,22,Tuesday
+417009,2,South Land,3,Friday
+240196,2,SW Sacramento,14,Thursday
+293073,2,SW Sacramento,14,Monday
+357966,1,SW Sacramento,12,Saturday
+240196,2,South Land,10,Thursday
+221626,2,SW Sacramento,18,Sunday
+846554,1,South Natomas,13,Wednesday
+357966,2,Cal Expo,21,Friday
+876627,1,SW Sacramento,16,Thursday
+782729,2,North Sacramento,15,Wednesday
+357966,1,West Sacramento,3,Wednesday
+966126,4,North Sacramento,18,Wednesday
+644730,2,SW Sacramento,9,Sunday
+293073,3,Cal Expo,0,Wednesday
+203454,1,North Sacramento,4,Thursday
+656573,3,South Land,1,Wednesday
+417009,4,South Land,1,Friday
+966126,2,Midtown,11,Friday
+575961,1,South Natomas,9,Sunday
+740474,5,SW Sacramento,13,Saturday
+424718,5,South Land,7,Monday
+799380,5,SW Sacramento,6,Saturday
+424718,1,Upper Land,5,Wednesday
+293073,2,South Natomas,5,Saturday
+741835,3,Cal Expo,9,Tuesday
+575961,1,North Sacramento,15,Monday
+391708,2,West Sacramento,4,Friday
+120672,5,Upper Land,7,Tuesday
+656573,4,Cal Expo,1,Wednesday
+741835,1,SW Sacramento,21,Monday
+424718,3,Upper Land,7,Saturday
+357966,2,South Land,15,Saturday
+846554,3,North Sacramento,8,Monday
+417009,1,North Sacramento,10,Thursday
+293073,1,South Land,7,Saturday
+357966,1,Cal Expo,11,Sunday
+129553,1,North Sacramento,15,Thursday
+417009,2,SW Sacramento,8,Wednesday
+293073,2,Cal Expo,13,Friday
+221626,3,SW Sacramento,3,Tuesday
+740474,2,Cal Expo,22,Tuesday
+457848,2,West Sacramento,19,Saturday
+424718,4,West Sacramento,13,Thursday
+855119,5,West Sacramento,11,Tuesday
+240196,2,West Sacramento,15,Monday
+120672,4,South Natomas,4,Friday
+782729,2,West Sacramento,11,Monday
+293073,3,South Land,4,Sunday
+357966,2,Upper Land,16,Tuesday
+926868,2,Upper Land,22,Saturday
+293073,1,North Sacramento,7,Friday
+129553,2,North Sacramento,12,Tuesday
+741835,2,North Sacramento,8,Tuesday
+846554,4,SW Sacramento,16,Wednesday
+424718,5,Oak Park,16,Monday
+966126,1,Oak Park,17,Wednesday
+240196,3,SW Sacramento,16,Thursday
+656573,4,Cal Expo,19,Friday
+846554,1,Cal Expo,13,Thursday
+357966,1,Oak Park,0,Tuesday
+846554,3,South Land,7,Thursday
+575961,2,SW Sacramento,13,Saturday
+799380,1,Midtown,9,Wednesday
+855119,3,West Sacramento,4,Saturday
+293073,1,West Sacramento,22,Saturday
+741835,1,Midtown,11,Thursday
+457848,2,Midtown,9,Wednesday
+876627,1,North Sacramento,8,Sunday
+457848,1,SW Sacramento,19,Wednesday
+741835,2,SW Sacramento,2,Sunday
+417009,2,Upper Land,21,Friday
+542696,2,South Land,10,Saturday
+644730,2,SW Sacramento,23,Saturday
+855119,2,Upper Land,1,Tuesday
+129553,1,Oak Park,5,Saturday
+575961,1,Upper Land,5,Wednesday
+129553,2,SW Sacramento,21,Thursday
+966126,2,North Sacramento,2,Tuesday
+424718,3,SW Sacramento,6,Saturday
+240196,1,South Land,11,Friday
+799380,3,SW Sacramento,0,Sunday
+457848,3,Upper Land,13,Tuesday
+120672,1,South Natomas,2,Saturday
+417009,4,SW Sacramento,6,Saturday
+926868,2,SW Sacramento,0,Friday
+799380,1,West Sacramento,23,Friday
+542696,5,South Natomas,2,Monday
+293073,4,Oak Park,13,Monday
+855119,3,Midtown,13,Friday
+782729,1,South Natomas,0,Thursday
+129553,1,Cal Expo,11,Tuesday
+926868,1,SW Sacramento,10,Tuesday
+203454,1,South Land,14,Wednesday
+799380,1,Upper Land,18,Thursday
+656573,1,SW Sacramento,22,Friday
+120672,2,West Sacramento,3,Wednesday
+740474,2,Oak Park,12,Thursday
+644730,2,Oak Park,2,Tuesday
+293073,1,Oak Park,7,Sunday
+740474,2,West Sacramento,20,Saturday
+876627,1,Upper Land,6,Friday
+846554,1,West Sacramento,19,Wednesday
+129553,2,West Sacramento,14,Friday
+293073,3,North Sacramento,0,Tuesday
+203454,1,South Natomas,4,Sunday
+221626,1,SW Sacramento,8,Friday
+741835,2,Upper Land,15,Wednesday
+846554,3,Oak Park,13,Monday
+457848,2,Oak Park,21,Monday
+240196,5,Cal Expo,22,Monday
+120672,3,Upper Land,13,Tuesday
+575961,3,South Land,22,Saturday
+240196,3,West Sacramento,15,Friday
+644730,2,SW Sacramento,3,Sunday
+417009,2,Midtown,7,Saturday
+926868,1,Midtown,16,Tuesday
+120672,2,South Land,3,Tuesday
+457848,1,South Land,17,Wednesday
+741835,1,West Sacramento,9,Saturday
+782729,3,West Sacramento,8,Monday
+129553,3,South Natomas,8,Monday
+876627,2,South Natomas,8,Wednesday
+542696,2,Upper Land,23,Monday
+855119,2,North Sacramento,23,Sunday
+203454,3,North Sacramento,7,Wednesday
+391708,1,South Land,4,Wednesday
+457848,1,South Land,17,Tuesday
+203454,2,Cal Expo,17,Saturday
+966126,1,South Natomas,21,Tuesday
+644730,1,Cal Expo,15,Wednesday
+926868,3,North Sacramento,18,Thursday
+926868,1,South Land,19,Thursday
+741835,2,West Sacramento,12,Tuesday
+542696,5,Oak Park,2,Tuesday
+855119,1,Upper Land,11,Wednesday
+221626,1,Cal Expo,12,Tuesday
+129553,2,South Natomas,14,Tuesday
+656573,1,Upper Land,19,Wednesday
+424718,1,Oak Park,4,Saturday
+542696,1,North Sacramento,21,Monday
+575961,2,South Land,2,Thursday
+424718,5,Upper Land,19,Thursday
+417009,2,Midtown,18,Saturday
+740474,1,West Sacramento,20,Saturday
+417009,1,Oak Park,17,Wednesday
+457848,2,Oak Park,20,Tuesday
+799380,1,West Sacramento,16,Monday
+293073,1,South Land,8,Friday
+799380,1,SW Sacramento,0,Thursday
+417009,2,SW Sacramento,13,Saturday
+575961,1,Upper Land,9,Wednesday
+120672,1,Oak Park,14,Thursday
+357966,2,Midtown,21,Thursday
+966126,5,Upper Land,21,Thursday
+799380,5,Oak Park,11,Monday
+966126,2,North Sacramento,21,Sunday
+357966,1,SW Sacramento,23,Saturday
+120672,1,Oak Park,4,Saturday
+293073,3,Oak Park,21,Thursday
+129553,1,Upper Land,18,Friday
+240196,2,West Sacramento,2,Tuesday
+203454,2,Oak Park,9,Saturday
+656573,3,Oak Park,7,Tuesday
+221626,2,SW Sacramento,20,Monday
+741835,2,Midtown,20,Tuesday
+357966,3,Cal Expo,21,Friday
+391708,4,SW Sacramento,9,Wednesday
+575961,1,South Natomas,4,Thursday
+740474,1,Midtown,20,Saturday
+120672,5,South Natomas,16,Monday
+656573,2,Oak Park,0,Wednesday
+417009,2,Cal Expo,11,Tuesday
+741835,4,North Sacramento,23,Wednesday
+966126,1,North Sacramento,10,Friday
+203454,1,West Sacramento,14,Saturday
+846554,1,Upper Land,12,Sunday
+926868,2,Oak Park,11,Friday
+575961,1,Upper Land,18,Tuesday
+120672,2,South Natomas,14,Friday
+417009,3,South Natomas,17,Tuesday
+293073,1,Oak Park,16,Saturday
+424718,3,South Land,9,Tuesday
+740474,1,South Natomas,20,Monday
+926868,1,SW Sacramento,20,Tuesday
+391708,1,Midtown,5,Thursday
+203454,1,Upper Land,1,Thursday
+846554,2,Cal Expo,2,Friday
+799380,1,Midtown,13,Tuesday
+391708,2,South Land,1,Wednesday
+855119,3,South Land,17,Wednesday
+740474,1,Upper Land,2,Saturday
+424718,3,Oak Park,7,Friday
+240196,3,Cal Expo,2,Thursday
+926868,1,Upper Land,10,Monday
+203454,1,Upper Land,9,Saturday
+575961,1,West Sacramento,4,Thursday
+129553,5,West Sacramento,8,Saturday
+357966,3,Upper Land,4,Saturday
+846554,2,SW Sacramento,18,Tuesday
+417528,4,South Natomas,17,Tuesday
+457848,1,North Sacramento,21,Tuesday
+203454,3,South Land,22,Tuesday
+782729,2,Upper Land,10,Friday
+926868,4,Cal Expo,16,Friday
+542696,2,West Sacramento,0,Tuesday
+846554,2,SW Sacramento,9,Tuesday
+240196,2,Cal Expo,19,Thursday
+855119,1,SW Sacramento,12,Saturday
+221626,4,Midtown,20,Saturday
+120672,1,West Sacramento,14,Friday
+129553,2,SW Sacramento,11,Wednesday
+357966,3,Cal Expo,17,Thursday
+876627,1,Cal Expo,18,Saturday
+740474,2,Cal Expo,8,Wednesday
+644730,3,Upper Land,6,Tuesday
+417528,1,SW Sacramento,0,Wednesday
+644730,3,SW Sacramento,20,Sunday
+966126,1,West Sacramento,1,Tuesday
+799380,2,North Sacramento,22,Wednesday
+221626,1,SW Sacramento,9,Monday
+391708,2,Midtown,14,Monday
+417009,2,North Sacramento,23,Wednesday
+846554,2,North Sacramento,1,Friday
+741835,3,Midtown,22,Monday
+240196,1,North Sacramento,4,Thursday
+293073,2,North Sacramento,21,Monday
+782729,1,Cal Expo,5,Sunday
+203454,3,North Sacramento,22,Saturday
+240196,1,Cal Expo,9,Thursday
+926868,2,Oak Park,2,Thursday
+656573,3,Upper Land,12,Wednesday
+966126,4,South Natomas,17,Wednesday
+417528,1,Upper Land,8,Tuesday
+457848,3,South Natomas,14,Wednesday
+391708,2,SW Sacramento,23,Friday
+741835,1,Cal Expo,0,Saturday
+221626,1,South Natomas,19,Friday
+457848,2,Cal Expo,13,Sunday
+391708,2,Oak Park,9,Wednesday
+129553,1,North Sacramento,22,Sunday
+656573,1,Oak Park,15,Tuesday
+740474,1,Upper Land,1,Monday
+240196,2,Oak Park,17,Monday
+846554,1,Cal Expo,19,Saturday
+391708,2,Upper Land,21,Friday
+575961,2,Upper Land,18,Tuesday
+740474,2,Upper Land,6,Saturday
+846554,2,Midtown,12,Sunday
+966126,3,Oak Park,11,Thursday
+293073,3,Midtown,10,Wednesday
+846554,3,West Sacramento,9,Wednesday
+417528,1,Upper Land,18,Friday
+424718,2,SW Sacramento,15,Sunday
+782729,2,Cal Expo,18,Monday
+120672,2,South Land,3,Thursday
+782729,2,South Land,2,Wednesday
+575961,2,West Sacramento,3,Wednesday
+542696,2,South Land,9,Wednesday
+575961,1,Midtown,10,Thursday
+542696,1,South Natomas,14,Thursday
+644730,2,SW Sacramento,10,Sunday
+417009,2,West Sacramento,5,Tuesday
+740474,2,North Sacramento,3,Tuesday
+966126,4,Midtown,13,Saturday
+203454,3,Cal Expo,20,Wednesday
+203454,1,South Land,12,Monday
+293073,4,South Natomas,1,Tuesday
+740474,2,Upper Land,8,Wednesday
+424718,2,South Land,11,Tuesday
+457848,2,Midtown,10,Wednesday
+656573,1,North Sacramento,3,Wednesday
+656573,3,South Natomas,3,Friday
+417009,2,West Sacramento,10,Wednesday
+846554,3,Cal Expo,13,Sunday
+221626,2,South Land,7,Sunday
+424718,4,Midtown,17,Friday
+417009,3,West Sacramento,3,Wednesday
+740474,1,Upper Land,23,Saturday
+391708,1,South Natomas,3,Tuesday
+542696,4,Midtown,23,Monday
+357966,1,South Natomas,0,Saturday
+120672,3,Upper Land,2,Thursday
+391708,2,North Sacramento,23,Sunday
+120672,2,West Sacramento,12,Tuesday
+457848,1,Oak Park,12,Sunday
+129553,2,North Sacramento,22,Tuesday
+221626,3,South Natomas,10,Friday
+221626,3,North Sacramento,7,Saturday
+221626,2,West Sacramento,13,Friday
+782729,2,South Land,6,Tuesday
+120672,1,Oak Park,21,Tuesday
+424718,1,South Land,7,Sunday
+966126,2,West Sacramento,15,Friday
+293073,2,West Sacramento,7,Thursday
+424718,1,North Sacramento,21,Sunday
+417009,1,West Sacramento,10,Monday
+424718,1,South Natomas,0,Sunday
+966126,1,Cal Expo,11,Thursday
+120672,3,SW Sacramento,19,Thursday
+457848,1,SW Sacramento,18,Thursday
+656573,4,Midtown,2,Friday
+357966,2,SW Sacramento,4,Sunday
+424718,3,North Sacramento,19,Sunday
+120672,1,Cal Expo,12,Sunday
+855119,3,North Sacramento,21,Sunday
+424718,1,North Sacramento,20,Sunday
+855119,2,South Land,15,Saturday
+120672,1,Oak Park,14,Thursday
+357966,2,West Sacramento,23,Saturday
+740474,1,Upper Land,3,Monday
+391708,1,South Land,0,Saturday
+926868,2,South Land,15,Saturday
+129553,3,North Sacramento,19,Monday
+656573,3,Oak Park,23,Saturday
+846554,1,Midtown,9,Wednesday
+417009,1,Cal Expo,8,Thursday
+391708,2,Cal Expo,7,Wednesday
+782729,3,West Sacramento,5,Thursday
+417009,1,SW Sacramento,5,Sunday
+740474,1,Cal Expo,18,Thursday
+203454,1,SW Sacramento,8,Friday
+203454,3,West Sacramento,0,Sunday
+357966,3,North Sacramento,22,Thursday
+203454,1,West Sacramento,4,Wednesday
+644730,2,South Land,2,Friday
+656573,4,North Sacramento,2,Saturday
+357966,2,Cal Expo,19,Monday
+644730,2,Upper Land,10,Friday
+542696,3,Upper Land,21,Thursday
+357966,1,Midtown,13,Tuesday
+926868,2,Cal Expo,16,Friday
+575961,1,South Natomas,2,Sunday
+644730,1,North Sacramento,13,Thursday
+240196,4,Upper Land,8,Thursday
+855119,2,North Sacramento,8,Thursday
+391708,1,SW Sacramento,15,Friday
+129553,2,West Sacramento,10,Wednesday
+391708,2,Cal Expo,14,Thursday
+293073,4,Upper Land,22,Friday
+457848,2,SW Sacramento,20,Friday
+240196,1,North Sacramento,8,Saturday
+855119,1,South Natomas,11,Friday
+876627,4,West Sacramento,18,Monday
+357966,4,SW Sacramento,22,Tuesday
+575961,4,South Land,17,Tuesday
+926868,2,Midtown,10,Wednesday
+542696,4,South Natomas,15,Thursday
+120672,1,North Sacramento,3,Tuesday
+782729,3,Oak Park,9,Sunday
+644730,3,South Natomas,8,Tuesday
+542696,1,Midtown,6,Monday
+966126,2,West Sacramento,22,Friday
+575961,1,Cal Expo,12,Sunday
+855119,1,West Sacramento,13,Friday
+542696,2,Oak Park,12,Saturday
+293073,1,South Natomas,18,Sunday
+221626,5,SW Sacramento,12,Saturday
+782729,2,South Land,0,Saturday
+876627,1,South Land,22,Monday
+966126,1,West Sacramento,7,Thursday
+575961,2,Oak Park,18,Wednesday
+293073,1,Oak Park,15,Friday
+876627,2,West Sacramento,11,Wednesday
+966126,2,Midtown,20,Thursday
+457848,2,North Sacramento,10,Monday
+129553,3,SW Sacramento,17,Friday
+799380,1,Midtown,15,Saturday
+417528,1,South Land,0,Friday
+240196,1,Cal Expo,13,Saturday
+799380,2,North Sacramento,23,Friday
+542696,2,SW Sacramento,4,Tuesday
+542696,1,Upper Land,21,Tuesday
+203454,1,Oak Park,9,Sunday
+926868,2,Cal Expo,19,Wednesday
+357966,3,Upper Land,9,Wednesday
+240196,5,Upper Land,5,Thursday
+417009,2,Upper Land,6,Tuesday
+424718,4,West Sacramento,6,Friday
+391708,2,South Land,14,Tuesday
+926868,1,Cal Expo,10,Sunday
+656573,4,South Land,17,Monday
+782729,3,Midtown,9,Saturday
+293073,1,Cal Expo,16,Wednesday
+876627,3,South Natomas,12,Tuesday
+966126,1,West Sacramento,1,Thursday
+221626,1,West Sacramento,20,Thursday
+575961,2,Cal Expo,5,Friday
+391708,2,Oak Park,3,Thursday
+644730,1,West Sacramento,20,Monday
+799380,4,South Natomas,2,Friday
+799380,1,Midtown,16,Monday
+221626,2,West Sacramento,9,Tuesday
+240196,1,North Sacramento,9,Saturday
+740474,1,South Land,20,Wednesday
+293073,2,Midtown,5,Friday
+120672,2,South Land,5,Sunday
+120672,4,North Sacramento,18,Saturday
+417009,4,Oak Park,8,Sunday
+926868,1,South Natomas,4,Thursday
+782729,1,Oak Park,15,Monday
+799380,2,Midtown,20,Monday
+457848,1,Cal Expo,16,Saturday
+741835,3,SW Sacramento,15,Tuesday
+656573,2,West Sacramento,10,Monday
+203454,1,SW Sacramento,15,Monday
+417528,3,West Sacramento,7,Monday
+417009,1,South Natomas,18,Sunday
+203454,2,Oak Park,6,Friday
+966126,1,SW Sacramento,2,Wednesday
+221626,4,North Sacramento,22,Thursday
+457848,3,Midtown,5,Thursday
+357966,2,Cal Expo,4,Tuesday
+741835,2,SW Sacramento,6,Friday
+782729,1,Upper Land,13,Tuesday
+293073,1,South Land,2,Thursday
+575961,2,North Sacramento,1,Saturday
+129553,1,Upper Land,13,Saturday
+876627,3,South Natomas,12,Saturday
+120672,1,Oak Park,21,Monday
+542696,1,Oak Park,21,Monday
+740474,2,Cal Expo,19,Thursday
+846554,3,Oak Park,14,Friday
+221626,1,Cal Expo,13,Sunday
+656573,2,Oak Park,13,Wednesday
+424718,2,Upper Land,4,Sunday
+120672,1,Oak Park,7,Tuesday
+855119,4,North Sacramento,20,Monday
+457848,1,Upper Land,6,Friday
+240196,1,Cal Expo,1,Thursday
+926868,5,SW Sacramento,12,Tuesday
+741835,1,Midtown,16,Monday
+357966,2,Upper Land,13,Saturday
+457848,2,South Land,16,Wednesday
+542696,2,South Natomas,4,Saturday
+424718,1,Cal Expo,13,Saturday
+782729,1,North Sacramento,17,Saturday
+799380,1,North Sacramento,9,Thursday
+120672,1,Oak Park,23,Sunday
+293073,1,SW Sacramento,19,Tuesday
+542696,2,South Land,0,Sunday
+221626,1,Cal Expo,0,Thursday
+740474,2,SW Sacramento,10,Thursday
+846554,1,SW Sacramento,15,Friday
+221626,1,North Sacramento,20,Wednesday
+740474,5,North Sacramento,3,Tuesday
+293073,1,Midtown,19,Saturday
+357966,2,SW Sacramento,21,Sunday
+542696,3,SW Sacramento,5,Sunday
+424718,2,South Land,8,Wednesday
+221626,1,North Sacramento,7,Wednesday
+457848,1,Cal Expo,8,Sunday
+424718,2,South Land,6,Saturday
+656573,1,Upper Land,5,Sunday
+799380,1,North Sacramento,12,Tuesday
+542696,2,South Natomas,15,Thursday
+129553,2,Cal Expo,10,Thursday
+293073,1,SW Sacramento,21,Monday
+457848,4,Oak Park,14,Saturday
+457848,1,Oak Park,12,Sunday
+782729,1,North Sacramento,17,Tuesday
+575961,1,Oak Park,5,Monday
+644730,2,South Natomas,16,Thursday
+926868,3,South Natomas,8,Monday
+203454,1,South Natomas,21,Friday
+741835,1,South Land,14,Monday
+926868,3,West Sacramento,3,Monday
+357966,1,Oak Park,11,Thursday
+575961,1,South Land,14,Thursday
+293073,3,SW Sacramento,18,Thursday
+240196,5,Upper Land,8,Tuesday
+966126,3,South Natomas,5,Tuesday
+782729,3,South Natomas,22,Tuesday
+855119,5,Upper Land,10,Tuesday
+129553,4,West Sacramento,7,Saturday
+575961,1,SW Sacramento,13,Friday
+221626,1,Oak Park,5,Sunday
+656573,1,Oak Park,19,Thursday
+120672,3,SW Sacramento,15,Monday
+656573,2,Oak Park,19,Monday
+656573,2,SW Sacramento,16,Saturday
+740474,3,South Land,2,Friday
+129553,1,South Natomas,15,Wednesday
+656573,1,South Land,2,Wednesday
+846554,4,South Natomas,17,Tuesday
+457848,2,SW Sacramento,20,Sunday
+876627,1,West Sacramento,18,Saturday
+644730,1,Cal Expo,4,Saturday
+926868,4,SW Sacramento,2,Monday
+293073,3,SW Sacramento,19,Saturday
+656573,1,Cal Expo,14,Monday
+203454,4,Upper Land,8,Saturday
+656573,2,North Sacramento,8,Thursday
+740474,1,South Land,3,Thursday
+656573,1,Upper Land,18,Saturday
+391708,2,South Natomas,13,Thursday
+855119,2,SW Sacramento,2,Sunday
+846554,3,North Sacramento,5,Saturday
+740474,4,West Sacramento,17,Wednesday
+120672,1,SW Sacramento,15,Tuesday
+966126,2,South Land,5,Friday
+926868,1,SW Sacramento,5,Sunday
+240196,4,Upper Land,0,Saturday
+740474,2,Cal Expo,9,Friday
+799380,1,Oak Park,5,Tuesday
+966126,2,North Sacramento,22,Tuesday
+644730,4,Upper Land,3,Friday
+417528,1,Upper Land,17,Friday
+876627,2,West Sacramento,10,Sunday
+203454,2,Oak Park,9,Saturday
+457848,3,Cal Expo,10,Friday
+542696,5,Oak Park,6,Thursday
+457848,1,South Land,21,Tuesday
+575961,3,South Land,16,Monday
+221626,3,Upper Land,6,Thursday
+926868,2,South Land,8,Wednesday
+799380,1,Oak Park,22,Tuesday
+293073,3,South Natomas,18,Thursday
+656573,3,South Land,11,Saturday
+417009,1,Midtown,8,Saturday
+293073,2,South Land,20,Friday
+542696,3,South Natomas,19,Monday
+656573,1,Midtown,2,Tuesday
+240196,1,North Sacramento,9,Friday
+129553,5,Midtown,15,Monday
+417528,2,SW Sacramento,7,Monday
+293073,1,Midtown,11,Wednesday
+391708,1,Upper Land,20,Thursday
+293073,3,Cal Expo,20,Tuesday
+357966,1,Upper Land,11,Sunday
+855119,4,South Land,2,Saturday
+656573,2,South Land,12,Tuesday
+846554,1,North Sacramento,16,Tuesday
+293073,1,Midtown,7,Wednesday
+293073,2,Midtown,8,Thursday
+782729,2,Oak Park,18,Thursday
+203454,4,South Land,7,Saturday
+741835,2,Midtown,19,Tuesday
+741835,1,Oak Park,14,Sunday
+966126,2,Upper Land,10,Wednesday
+293073,2,SW Sacramento,17,Tuesday
+203454,1,South Natomas,11,Monday
+357966,4,South Land,20,Sunday
+782729,2,Midtown,21,Wednesday
+966126,4,South Natomas,10,Thursday
+741835,1,Oak Park,0,Saturday
+457848,2,Midtown,9,Wednesday
+740474,1,Midtown,17,Thursday
+417009,5,Upper Land,2,Thursday
+855119,1,Upper Land,23,Wednesday
+656573,1,SW Sacramento,9,Friday
+240196,2,West Sacramento,1,Wednesday
+799380,2,Upper Land,19,Wednesday
+741835,1,West Sacramento,12,Saturday
+799380,3,North Sacramento,7,Tuesday
+203454,3,North Sacramento,12,Monday
+855119,2,West Sacramento,22,Wednesday
+876627,1,South Natomas,7,Tuesday
+846554,3,South Land,13,Friday
+357966,2,Oak Park,19,Friday
+656573,2,SW Sacramento,3,Tuesday
+357966,1,Upper Land,4,Saturday
+417528,1,South Natomas,11,Saturday
+120672,1,Oak Park,21,Saturday
+855119,4,SW Sacramento,9,Sunday
+846554,2,Cal Expo,18,Saturday
+391708,5,South Natomas,4,Thursday
+203454,2,Upper Land,9,Wednesday
+542696,2,South Natomas,7,Friday
+417009,2,Cal Expo,21,Thursday
+357966,2,Midtown,1,Tuesday
+926868,1,South Land,15,Monday
+120672,1,Oak Park,1,Monday
+926868,3,Midtown,21,Monday
+846554,4,South Land,4,Wednesday
+782729,4,Midtown,5,Thursday
+656573,1,South Land,11,Friday
+357966,3,Oak Park,23,Monday
+656573,3,Upper Land,19,Thursday
+575961,4,Midtown,11,Thursday
+542696,3,Upper Land,12,Wednesday
+656573,3,SW Sacramento,1,Friday
+876627,2,SW Sacramento,15,Monday
+656573,3,West Sacramento,14,Friday
+424718,3,Cal Expo,6,Friday
+357966,3,Cal Expo,21,Tuesday
+656573,1,SW Sacramento,15,Wednesday
+846554,2,SW Sacramento,6,Thursday
+424718,1,North Sacramento,15,Friday
+221626,1,SW Sacramento,2,Wednesday
+417009,1,South Land,18,Monday
+782729,1,Upper Land,23,Friday
+424718,1,Cal Expo,5,Friday
+575961,1,Midtown,17,Wednesday
+221626,5,SW Sacramento,13,Thursday
+740474,2,Cal Expo,18,Friday
+240196,1,South Land,21,Friday
+799380,2,Oak Park,21,Saturday
+782729,2,Oak Park,7,Friday
+417009,5,Oak Park,18,Friday
+741835,1,South Natomas,10,Saturday
+424718,3,Upper Land,22,Saturday
+740474,4,Midtown,13,Tuesday
+876627,1,SW Sacramento,0,Tuesday
+293073,1,West Sacramento,11,Sunday
+542696,1,West Sacramento,13,Friday
+293073,1,Upper Land,11,Sunday
+846554,3,Upper Land,17,Sunday
+457848,5,Upper Land,17,Wednesday
+644730,3,West Sacramento,19,Monday
+357966,1,Oak Park,7,Monday
+782729,2,Upper Land,12,Thursday
+417528,2,Midtown,4,Monday
+120672,1,Midtown,14,Friday
+120672,1,Cal Expo,16,Tuesday
+120672,1,South Natomas,14,Thursday
+542696,3,South Land,8,Tuesday
+846554,1,Oak Park,18,Wednesday
+740474,1,Oak Park,4,Saturday
+129553,1,South Natomas,21,Wednesday
+120672,3,Oak Park,9,Thursday
+782729,2,Upper Land,20,Thursday
+457848,4,Oak Park,13,Friday
+457848,1,South Land,20,Sunday
+966126,2,SW Sacramento,3,Thursday
+457848,2,West Sacramento,13,Thursday
+221626,5,Upper Land,9,Monday
+293073,3,South Natomas,13,Wednesday
+782729,3,South Natomas,23,Wednesday
+644730,4,North Sacramento,7,Wednesday
+782729,4,North Sacramento,3,Saturday
+424718,2,Oak Park,7,Wednesday
+740474,1,Upper Land,7,Tuesday
+656573,5,West Sacramento,10,Thursday
+391708,2,Cal Expo,0,Wednesday
+417528,1,Midtown,16,Monday
+391708,2,Upper Land,4,Wednesday
+417528,1,Oak Park,10,Tuesday
+203454,2,South Land,17,Wednesday
+876627,1,West Sacramento,8,Friday
+846554,2,North Sacramento,16,Tuesday
+799380,1,Oak Park,20,Sunday
+293073,2,Oak Park,2,Thursday
+799380,2,Midtown,14,Saturday
+293073,2,Oak Park,0,Wednesday
+926868,2,Oak Park,17,Wednesday
+457848,4,Oak Park,5,Friday
+417009,2,South Natomas,7,Saturday
+741835,1,West Sacramento,5,Saturday
+417009,1,West Sacramento,10,Wednesday
+926868,4,Cal Expo,21,Friday
+782729,4,SW Sacramento,2,Wednesday
+966126,2,Cal Expo,13,Friday
+644730,2,South Natomas,8,Thursday
+417009,1,North Sacramento,3,Wednesday
+741835,4,Oak Park,0,Sunday
+417009,1,West Sacramento,0,Sunday
+644730,4,South Natomas,10,Monday
+457848,4,Oak Park,11,Sunday
+357966,1,Midtown,14,Tuesday
+644730,5,SW Sacramento,18,Thursday
+740474,2,Upper Land,9,Tuesday
+293073,2,South Natomas,4,Tuesday
+240196,1,South Natomas,0,Saturday
+644730,3,North Sacramento,11,Thursday
+424718,4,Cal Expo,20,Monday
+644730,1,North Sacramento,6,Thursday
+542696,1,North Sacramento,13,Wednesday
+240196,1,North Sacramento,2,Sunday
+740474,2,North Sacramento,7,Wednesday
+424718,4,West Sacramento,5,Thursday
+129553,2,Midtown,23,Tuesday
+240196,1,SW Sacramento,22,Tuesday
+391708,1,Cal Expo,4,Sunday
+846554,1,South Natomas,7,Saturday
+417009,1,South Natomas,11,Saturday
+203454,1,Midtown,15,Saturday
+542696,5,South Land,21,Thursday
+575961,5,Oak Park,22,Sunday
+424718,2,West Sacramento,21,Friday
+966126,2,South Land,8,Saturday
+417009,2,Midtown,15,Friday
+417528,2,Oak Park,5,Friday
+740474,1,Midtown,21,Thursday
+417009,2,South Natomas,0,Saturday
+855119,3,South Land,3,Sunday
+120672,1,Midtown,14,Saturday
+457848,2,Upper Land,2,Saturday
+417009,3,South Natomas,11,Friday
+221626,1,West Sacramento,4,Wednesday
+129553,4,Upper Land,15,Sunday
+966126,1,Midtown,10,Tuesday
+926868,2,Oak Park,15,Saturday
+542696,2,Upper Land,22,Wednesday
+457848,1,West Sacramento,6,Saturday
+966126,1,South Natomas,17,Thursday
+876627,5,Oak Park,12,Friday
+240196,4,Midtown,13,Saturday
+424718,1,Cal Expo,19,Sunday
+417528,2,West Sacramento,11,Sunday
+741835,2,SW Sacramento,17,Tuesday
+855119,1,South Natomas,19,Sunday
+644730,1,Upper Land,17,Saturday
+457848,3,Oak Park,19,Tuesday
+221626,1,Upper Land,11,Friday
+221626,3,SW Sacramento,4,Sunday
+542696,2,South Natomas,0,Friday
+926868,2,Midtown,7,Saturday
+926868,3,North Sacramento,13,Thursday
+575961,1,Upper Land,20,Thursday
+799380,5,North Sacramento,7,Tuesday
+575961,1,SW Sacramento,10,Wednesday
+203454,2,South Land,1,Wednesday
+417528,2,Cal Expo,2,Thursday
+926868,1,North Sacramento,23,Thursday
+221626,1,North Sacramento,16,Wednesday
+741835,3,Oak Park,7,Friday
+129553,1,North Sacramento,8,Wednesday
+357966,1,Upper Land,7,Sunday
+855119,2,SW Sacramento,13,Friday
+740474,3,Upper Land,0,Thursday
+542696,4,Oak Park,9,Saturday
+855119,2,West Sacramento,16,Wednesday
+457848,3,Midtown,0,Friday
+782729,1,Upper Land,23,Monday
+391708,5,Upper Land,22,Wednesday
+357966,1,Cal Expo,4,Monday
+293073,1,South Land,6,Tuesday
+203454,1,North Sacramento,2,Monday
+926868,1,SW Sacramento,12,Tuesday
+741835,1,South Land,19,Friday
+740474,1,South Natomas,14,Thursday
+203454,2,Midtown,2,Saturday
+240196,2,South Natomas,17,Sunday
+129553,2,North Sacramento,16,Saturday
+644730,1,South Land,18,Tuesday
+644730,2,South Land,20,Wednesday
+644730,1,South Land,8,Monday
+542696,2,Oak Park,3,Sunday
+799380,1,South Natomas,12,Saturday
+129553,3,South Natomas,11,Wednesday
+293073,4,Oak Park,19,Friday
+129553,1,Upper Land,12,Monday
+293073,1,West Sacramento,23,Saturday
+417528,2,SW Sacramento,14,Wednesday
+417009,3,South Natomas,5,Saturday
+417528,2,South Land,1,Wednesday
+203454,5,SW Sacramento,10,Thursday
+417009,5,Oak Park,3,Saturday
+129553,3,North Sacramento,9,Wednesday
+799380,2,North Sacramento,1,Sunday
+391708,3,Upper Land,7,Saturday
+782729,1,West Sacramento,15,Thursday
+457848,2,Cal Expo,6,Friday
+846554,2,North Sacramento,6,Thursday
+391708,4,Cal Expo,8,Monday
+293073,2,Upper Land,14,Sunday
+293073,1,Oak Park,13,Sunday
+644730,2,SW Sacramento,18,Friday
+846554,2,Midtown,23,Monday
+846554,3,Upper Land,10,Thursday
+391708,2,SW Sacramento,22,Wednesday
+740474,4,Cal Expo,7,Thursday
+542696,4,Upper Land,7,Tuesday
+293073,2,Midtown,17,Friday
+782729,4,Oak Park,0,Saturday
+644730,1,SW Sacramento,13,Friday
+357966,2,Midtown,23,Tuesday
+457848,1,South Land,5,Friday
+129553,2,Midtown,4,Wednesday
+542696,2,South Land,10,Sunday
+926868,2,SW Sacramento,1,Monday
+457848,1,South Land,8,Friday
+542696,2,North Sacramento,17,Friday
+417009,3,South Land,8,Friday
+741835,2,Oak Park,15,Saturday
+203454,2,Midtown,9,Thursday
+855119,3,Midtown,16,Tuesday
+799380,2,Midtown,13,Monday
+457848,1,West Sacramento,5,Monday
+417528,4,Cal Expo,16,Friday
+457848,3,SW Sacramento,10,Thursday
+129553,2,SW Sacramento,9,Thursday
+740474,1,Cal Expo,13,Monday
+855119,2,West Sacramento,15,Thursday
+357966,1,Cal Expo,19,Sunday
+203454,2,South Land,20,Sunday
+656573,2,Upper Land,18,Thursday
+457848,4,North Sacramento,3,Thursday
+203454,2,West Sacramento,20,Sunday
+424718,1,Midtown,12,Wednesday
+417009,3,West Sacramento,11,Monday
+221626,1,Upper Land,9,Wednesday
+542696,2,Upper Land,0,Saturday
+542696,2,South Natomas,0,Sunday
+417528,3,Midtown,6,Sunday
+799380,1,SW Sacramento,5,Sunday
+644730,2,West Sacramento,15,Wednesday
+424718,2,Upper Land,7,Tuesday
+293073,2,SW Sacramento,15,Friday
+417009,2,West Sacramento,10,Saturday
+782729,2,Midtown,4,Tuesday
+926868,1,SW Sacramento,23,Monday
+457848,2,SW Sacramento,0,Thursday
+391708,2,Cal Expo,22,Saturday
+424718,1,Cal Expo,17,Thursday
+542696,3,Cal Expo,3,Tuesday
+120672,4,South Land,17,Thursday
+855119,2,West Sacramento,22,Friday
