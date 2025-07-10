@@ -1,24 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import './account_screen.dart';
-
-void main() {
-  runApp(
-    const ProviderScope(child: MyApp()),
-  );
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Walmart IndexedStack App',
-      home: const MainScaffold(),
-    );
-  }
-}
+import './day_screen.dart';
+import './week_screen.dart';
 
 class MainScaffold extends ConsumerStatefulWidget {
   const MainScaffold({super.key});
@@ -132,17 +116,6 @@ class _MainScaffoldState extends ConsumerState<MainScaffold> {
   }
 }
 
-class WeekPage extends StatelessWidget {
-  const WeekPage({super.key});
-  @override
-  Widget build(BuildContext context) => const Center(child: Text("📆 Week Page"));
-}
-
-class DayPage extends StatelessWidget {
-  const DayPage({super.key});
-  @override
-  Widget build(BuildContext context) => const Center(child: Text("📅 Day Page"));
-}
 
 class FinancialsPage extends StatelessWidget {
   const FinancialsPage({super.key});

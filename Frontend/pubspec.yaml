@@ -14,7 +14,10 @@ dependencies:
   flutter_riverpod: ^2.6.1
   google_fonts: ^6.2.1
   hexcolor: ^3.0.1
+  http: ^1.4.0
+  intl: ^0.20.2
   path: ^1.9.1
+  path_provider: ^2.1.5
   sqflite: ^2.4.2
 
 dev_dependencies:
@@ -25,7 +28,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
+    - assets/images/db/
     - assets/db/
   fonts:
     - family: EverydaySans
