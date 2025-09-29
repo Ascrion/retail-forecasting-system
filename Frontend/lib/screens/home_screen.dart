@@ -53,7 +53,7 @@ class _MainScaffoldState extends ConsumerState<MainScaffold> {
             SizedBox(
               width: screenWidth * 0.2,
               child: Image.asset(
-                'assets/images/WMT-Spark-SparkYellow-RGB.png',
+                'assets/images/shop.png',
                 height: screenHeight * 0.05,
                 fit: BoxFit.contain,
               ),

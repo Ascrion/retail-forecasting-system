@@ -45,7 +45,7 @@ class AccountPage extends ConsumerWidget {
           children: [
             // Email
             Text(
-              'admin7539@walmart.com',
+              'admin7539@shop.com',
               style: textSmall,
               textAlign: TextAlign.center,
             ),
