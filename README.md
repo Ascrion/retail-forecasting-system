@@ -42,10 +42,7 @@ This ensemble improves the robustness of predictions by leveraging both gradient
 ## Screenshots
 
 <p align="center">
-  <img src="app_screenshots/home.png" width="220" height = '500' />
-  <img src="app_screenshots/day.png" width="220" height = '500' />
-  <img src="app_screenshots/finances.png" width="220" height = '500' />
-  <img src="app_screenshots/admin.png" width="220" height = '500' />
+  <img src="app_screenshots/all_screens.png"/>
 </p>
 
 ## Installation and Setup
